@@ -1,0 +1,1157 @@
+[
+  {
+    "image": "./image/phraseBank/1",
+    "text": "Мне",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/2",
+    "text": "Привет",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/3",
+    "text": "Помощь",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/4",
+    "text": "Да",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/5",
+    "text": "Нет",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/6",
+    "text": "Туалет",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/7",
+    "text": "что",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/8",
+    "text": "Почему",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/9",
+    "text": "Спать",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/10",
+    "text": "Ванна",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/1",
+    "text": "Слушать",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/1",
+    "text": "Утро",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/1",
+    "text": "Ночь",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/1",
+    "text": "Посмотрите",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/phraseBank/1",
+    "text": "Разговаривать",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/category/10",
+    "text": "Играть в",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/category/10",
+    "text": "За пределами",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/category/10",
+    "text": "Дом",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/category/10",
+    "text": "Повредить",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/category/10",
+    "text": "Местоимения",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/category/10",
+    "text": "Невербальный",
+    "categoryId": 2
+  },
+  {
+    "image": "./image/category/10",
+    "text": "Очередной раз",
+    "categoryId": 2
+  },
+
+  {
+    "image": "3",
+    "text": "Мама",
+    "categoryId": 3
+  },
+  {
+    "image": "3",
+    "text": "Папа",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Родители",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Бабушки и дедушки",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Брат",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Сестра",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Дядя",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Тетя",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Учитель",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Терапевт",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Врач",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Друзья",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Подруга",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Дружок",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Кузены",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Бабушка",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Дедушка",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Отчим",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Мачеха",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Сводная сестра",
+    "categoryId": 3
+  },
+  {
+    "image": "2",
+    "text": "Сводный брат",
+    "categoryId": 3
+  },
+
+  {
+    "image": "4",
+    "text": "Счастливый",
+    "categoryId": 4
+  },
+  {
+    "image": "4",
+    "text": "Грустный",
+    "categoryId": 4
+  },
+  {
+    "image": "4",
+    "text": "Измученный",
+    "categoryId": 4
+  },
+  {
+    "image": "4",
+    "text": "Расслабленный",
+    "categoryId": 4
+  },
+  {
+    "image": "4",
+    "text": "Влюблена",
+    "categoryId": 4
+  },
+  {
+    "image": "4",
+    "text": "Стресс",
+    "categoryId": 4
+  },
+  {
+    "image": "4",
+    "text": "Благодарен",
+    "categoryId": 4
+  },
+  {
+    "image": "4",
+    "text": "Смущенный",
+    "categoryId": 4
+  },
+  {
+    "image": "3",
+    "text": "Радостный",
+    "categoryId": 4
+  },
+  {
+    "image": "3",
+    "text": "Злой",
+    "categoryId": 4
+  },
+  {
+    "image": "3",
+    "text": "Умная",
+    "categoryId": 4
+  },
+  {
+    "image": "3",
+    "text": "Боюсь",
+    "categoryId": 4
+  },
+  {
+    "image": "3",
+    "text": "Стыдящийся",
+    "categoryId": 4
+  },
+  {
+    "image": "3",
+    "text": "Потрясенный",
+    "categoryId": 4
+  },
+  {
+    "image": "3",
+    "text": "Больной",
+    "categoryId": 4
+  },
+  {
+    "image": "3",
+    "text": "Расстроенный",
+    "categoryId": 4
+  },
+  {
+    "image": "3",
+    "text": "Взволнованный",
+    "categoryId": 4
+  },
+  {
+    "image": "3",
+    "text": "Тошнотворный",
+    "categoryId": 4
+  },
+  {
+    "image": "4",
+    "text": "Взволнованный",
+    "categoryId": 4
+  },
+
+  {
+    "image": "5",
+    "text": "Голодный",
+    "categoryId": 5
+  },
+  {
+    "image": "5",
+    "text": "Испытывающий жажду",
+    "categoryId": 5
+  },
+  {
+    "image": "5",
+    "text": "Столовые приборы",
+    "categoryId": 5
+  },
+
+  {
+    "image": "5",
+    "text": "Полный",
+    "categoryId": 5
+  },
+
+  {
+    "image": "5",
+    "text": "Яблоко",
+    "categoryId": 5
+  },
+  {
+    "image": "5",
+    "text": "Морковь",
+    "categoryId": 5
+  },
+  {
+    "image": "5",
+    "text": "Бобы",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Курица",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Шоколад",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Молоко",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Сэндвич",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Стейк",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Банан",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Пирог",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Яйцо",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Лапша",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Поваренная соль",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Специи",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Пицца",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Сыр",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Рыбы",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Мороженое",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Чай",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Кофе",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Помидор",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Зерновой",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Бургер",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Картошка фри",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Шпинат",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Рис",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Хлеб",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Макаронные изделия",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Соус",
+    "categoryId": 5
+  },
+  {
+    "image": "4",
+    "text": "Кебаб",
+    "categoryId": 5
+  },
+
+  {
+    "image": "6",
+    "text": "Кошка",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Собака",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Рыбы",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Кролик",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Бабочка",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Кенгуру",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Черепаха",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Жираф",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Лягушка",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Лебедь",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Паук",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Корова",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Утка",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Лошадь",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Курица",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Пчела",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Свинья",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Голубь",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Краб",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Пингвин",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Слон",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Зебра",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Панда",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Обезьяна",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Верблюд",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Мышь",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Тигр",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Медуза",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Крокодил",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Коала",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Страус",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Енот",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Летучая мышь",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Орел",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Бегемот",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Тюлень",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Морж",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Морской конек",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Бык",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Пеликан",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Бобер",
+    "categoryId": 6
+  },
+  {
+    "image": "5",
+    "text": "Золотая рыбка",
+    "categoryId": 6
+  },
+  {
+    "image": "6",
+    "text": "Носорог",
+    "categoryId": 6
+  },
+  {
+    "image": "6",
+    "text": "Змея",
+    "categoryId": 6
+  },
+  {
+    "image": "6",
+    "text": "Лев",
+    "categoryId": 6
+  },
+  {
+    "image": "6",
+    "text": "Кальмар",
+    "categoryId": 6
+  },
+  {
+    "image": "6",
+    "text": "Кит",
+    "categoryId": 6
+  },
+  {
+    "image": "6",
+    "text": "Жук",
+    "categoryId": 6
+  },
+  {
+    "image": "6",
+    "text": "Дельфин",
+    "categoryId": 6
+  },
+  {
+    "image": "6",
+    "text": "Морская звезда",
+    "categoryId": 6
+  },
+  {
+    "image": "6",
+    "text": "Попугай",
+    "categoryId": 6
+  },
+  {
+    "image": "6",
+    "text": "Сова",
+    "categoryId": 6
+  },
+  {
+    "image": "6",
+    "text": "Овца",
+    "categoryId": 6
+  },
+
+  {
+    "image": "7",
+    "text": "Рабочий стол",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Стул",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Книга",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Ноутбук",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Рюкзак",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Доска",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Учитель",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Школьный автобус",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Карандаш",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Ластик",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Линейка",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Точилка",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Математика",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Литература",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Наука",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Художественный класс",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Музыкальный класс",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "География",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Телескоп",
+    "categoryId": 7
+  },
+  {
+    "image": "7",
+    "text": "Клей",
+    "categoryId": 7
+  },
+
+  {
+    "image": "8",
+    "text": "Гулять пешком",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Бег",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Разговор",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Чтение",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Футбол",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Баскетбол",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Плавание",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Картина",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Рисунок",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Кататься на велосипеде",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Катание на коньках",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Осмотр достопримечательностей",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Видеоигры",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Разговор",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Уборка",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Игрушки",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Головоломка",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Комиксы",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Шахматы",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Текстовые сообщения",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Вязание",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Боулинг",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Смотря телевизор",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Рыбная ловля",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Упражнение",
+    "categoryId": 8
+  },
+  {
+    "image": "8",
+    "text": "Большой теннис",
+    "categoryId": 8
+  },
+
+  {
+    "image": "9",
+    "text": "Круг",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Треугольник",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Площадь",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Прямоугольник",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Звезда",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Пентагон",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Шестиугольник",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Крест",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Эллипс",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Стрелка",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Полумесяц",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Сердце",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Ромб",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Цилиндр",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Кольцо",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Полукруг",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Трапеция",
+    "categoryId": 9
+  },
+  {
+    "image": "9",
+    "text": "Куб",
+    "categoryId": 9
+  },
+
+  {
+    "image": "10",
+    "text": "Мелки",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Красный",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Синий",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Оранжевый",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Зеленый",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Желтый",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Фиолетовый",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Розовый",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Коричневый",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Черный",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Белый",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Серый",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Прозрачный",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Голубой",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Бирюзовый",
+    "categoryId": 10
+  },
+  {
+    "image": "10",
+    "text": "Лайм",
+    "categoryId": 10
+  }
+]

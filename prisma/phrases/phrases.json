@@ -1,0 +1,221 @@
+[
+  {
+    "text": "Меня зовут",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 1
+  },
+  {
+    "text": "Я",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 1
+  },
+  {
+    "text": "Ты знаешь мое имя?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 1
+  },
+  {
+    "text": "Как вас зовут?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 1
+  },
+  {
+    "text": "Приятно встретить тебя!",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 1
+  },
+  {
+    "text": "Я вам нравлюсь?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 1
+  },
+  {
+    "text": "Можем ли мы дружить?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 1
+  },
+  {
+    "text": "Я использую вспомогательные приложения для общения",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 1
+  },
+  {
+    "text": "Кто ты?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 1
+  },
+
+  {
+    "text": "Привет",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 2
+  },
+  {
+    "text": "Как ты?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 2
+  },
+  {
+    "text": "Приятно встретить тебя!",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 2
+  },
+
+  {
+    "text": "Помоги мне",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 3
+  },
+  {
+    "text": "Вы можете помоч мне?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 3
+  },
+  {
+    "text": "Мне нужна помошь",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 3
+  },
+  {
+    "text": "Вам нужна помощь?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 3
+  },
+  {
+    "text": "Да",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 4
+  },
+  {
+    "text": "Да, пожалуйста",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 4
+  },
+  {
+    "text": "Хорошо",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 4
+  },
+  {
+    "text": "Согласен",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 4
+  },
+  {
+    "text": "Я хочу",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 4
+  },
+  {
+    "text": "Я хотел бы",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 4
+  },
+
+  {
+    "text": "Нет",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 5
+  },
+  {
+    "text": "Неа",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 5
+  },
+  {
+    "text": "Никогда",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 5
+  },
+  {
+    "text": "Я не хочу",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 5
+  },
+  {
+    "text": "Мне это не нравиться",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 5
+  },
+  {
+    "text": "Вам это нравиться?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 5
+  },
+  {
+    "text": "Почему тебе это не нравиться?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 5
+  },
+  {
+    "text": "Мне нужно пойти в уборную",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 6
+  },
+  {
+    "text": "Мне надо сходить по маленькому",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 6
+  },
+  {
+    "text": "Мне нужно по большому",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 6
+  },
+  {
+    "text": "Поможешь мне сходить в уборную?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 6
+  },
+  {
+    "text": "Можешь помочь мне убраться?",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 6
+  },
+  {
+    "text": "Я не выдержал",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 6
+  },
+  {
+    "text": "Я обделался",
+    "emoji": ":)",
+    "sound": "/link",
+    "phraseBankId": 6
+  }
+]
