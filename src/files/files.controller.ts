@@ -14,7 +14,11 @@ import { FilesService } from './files.service';
 import { Response } from 'express';
 import { Public } from 'decorators/public.decorator';
 import { FileInterceptor } from '@nestjs/platform-express';
-import { editFileName, imageFilter } from '../files/options/image.option';
+import {
+  audioFilter,
+  editFileName,
+  imageFilter,
+} from '../files/options/image.option';
 import { diskStorage } from 'multer';
 
 @Controller('files')
@@ -44,9 +48,37 @@ export class FilesController {
     };
   }
   @Public()
+  @Post('upload-audio')
+  @UseInterceptors(
+    FileInterceptor('audio', {
+      storage: diskStorage({
+        destination: './audios',
+        filename: editFileName,
+      }),
+      fileFilter: audioFilter,
+    }),
+  )
+  async uploadAudio(@UploadedFile() file) {
+    const response = {
+      originalname: file.originalname,
+      filename: file.filename,
+    };
+    return {
+      status: HttpStatus.OK,
+      message: 'Audio uploaded successfully!',
+      data: response,
+    };
+  }
+  @Public()
   @Get('images/:name')
   findOne(@Param('name') name: string, @Res() res: Response) {
     const file = createReadStream(join(process.cwd(), `/uploads/${name}`));
+    file.pipe(res);
+  }
+  @Public()
+  @Get('audio/:name')
+  findAudio(@Param('name') name: string, @Res() res: Response) {
+    const file = createReadStream(join(process.cwd(), `/audios/${name}`));
     file.pipe(res);
   }
 }

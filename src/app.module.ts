@@ -7,6 +7,8 @@ import { PhrasesModule } from './phrases/phrases.module';
 import { FilesModule } from './files/files.module';
 import { PhraseBankModule } from './phrase-bank/phrase-bank.module';
 import { CategoryModule } from './category/category.module';
+import { ExercisesModule } from './exercises/exercises.module';
+import { ExerciseCategoryModule } from './exercise-category/exercise-category.module';
 
 @Module({
   imports: [
@@ -20,6 +22,8 @@ import { CategoryModule } from './category/category.module';
     FilesModule,
     PhraseBankModule,
     CategoryModule,
+    ExercisesModule,
+    ExerciseCategoryModule,
   ],
 })
 export class AppModule {}

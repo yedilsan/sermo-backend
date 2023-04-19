@@ -11,11 +11,13 @@ import { CategoryService } from './category.service';
 import { CreateCategoryDto } from './dto/create-category.dto';
 import { UpdateCategoryDto } from './dto/update-category.dto';
 import { Public } from 'decorators/public.decorator';
+import { Roles } from 'src/auth/decorator';
 
 @Controller('category')
 export class CategoryController {
   constructor(private readonly categoryService: CategoryService) {}
 
+  //@Roles('ADMIN')
   @Public()
   @Post()
   create(@Body() createCategoryDto: CreateCategoryDto) {
@@ -25,6 +27,7 @@ export class CategoryController {
   @Public()
   @Get()
   findAll() {
+    console.log('find all');
     return this.categoryService.findAll();
   }
 
@@ -35,6 +38,7 @@ export class CategoryController {
   }
 
   @Patch(':id')
+  @Roles('ADMIN')
   update(
     @Param('id') id: string,
     @Body() updateCategoryDto: UpdateCategoryDto,
@@ -43,6 +47,7 @@ export class CategoryController {
   }
 
   @Delete(':id')
+  @Roles('ADMIN')
   remove(@Param('id') id: string) {
     return this.categoryService.remove(+id);
   }

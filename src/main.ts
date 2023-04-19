@@ -2,11 +2,12 @@ import { ValidationPipe } from '@nestjs/common';
 import { NestFactory, Reflector } from '@nestjs/core';
 import { AppModule } from './app.module';
 import { JwtGuard } from './auth/guard/jwt.guard';
+import { RolesGuard } from './auth/guard/roles.guard';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   const reflector = app.get(Reflector);
-  app.useGlobalGuards(new JwtGuard(reflector));
+  app.useGlobalGuards(new JwtGuard(reflector), new RolesGuard(reflector));
   app.enableCors({
     allowedHeaders: ['content-type', 'Authorization'],
     origin: '*',

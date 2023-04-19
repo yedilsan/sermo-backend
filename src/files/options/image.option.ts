@@ -34,6 +34,37 @@ export const iconsOptions: MulterOptions = {
     },
   }),
 };
+export const audioFilter = (
+  req: Request,
+  file: Express.Multer.File,
+  callback: (error: Error, acceptFile: boolean) => void,
+) => {
+  if (file.mimetype.match(/\/(mpeg|wav)$/)) {
+    callback(null, true);
+  } else {
+    callback(
+      new HttpException(
+        `Unsupported file type ${extname(file.originalname)}`,
+        HttpStatus.BAD_REQUEST,
+      ),
+      false,
+    );
+  }
+};
+
+export const audioOptions: MulterOptions = {
+  limits: { fileSize: 10485760 }, // 10 MB
+  fileFilter: audioFilter,
+  storage: diskStorage({
+    destination: './audios',
+    filename: (req, file, callback) => {
+      const uniqueSuffix = Date.now() + '-' + Math.round(Math.random() * 1e9);
+      const ext = extname(file.originalname);
+      const filename = `${uniqueSuffix}${ext}`;
+      callback(null, filename);
+    },
+  }),
+};
 export const editFileName = (req, file, callback) => {
   const name = file.originalname.split('.')[0];
   const fileExtName = extname(file.originalname);

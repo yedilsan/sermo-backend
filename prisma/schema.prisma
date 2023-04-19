@@ -18,17 +18,14 @@ model User {
   hash      String
   firstName String?
   lastName  String?
-  role      Role?    @relation(fields: [roleId], references: [id])
-  roleId    Int?
+  role      Role[]   @default([USER])
 
   @@map("users")
 }
 
-model Role {
-  id   Int    @id @default(autoincrement())
-  name String @unique
-
-  users User[]
+enum Role {
+  ADMIN
+  USER
 }
 
 model Phrase {
@@ -56,4 +53,20 @@ model Category {
   text  String
 
   phraseBanks PhraseBank[]
+}
+
+model ExerciseCategory {
+  id    Int    @id @default(autoincrement())
+  image String
+  text  String
+
+  exercise Exercise[]
+}
+
+model Exercise {
+  id                 Int               @id @default(autoincrement())
+  text               String
+  sound              String
+  exerciseCategory   ExerciseCategory? @relation(fields: [exerciseCategoryId], references: [id])
+  exerciseCategoryId Int?
 }

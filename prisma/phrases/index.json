@@ -1,41 +1,51 @@
 [
   {
+    "id": 1,
     "image": "http://localhost:3333/files/images/filled-star.png",
     "text": "Избранное"
   },
   {
+    "id": 2,
     "image": "http://localhost:3333/files/images/collaboration.png",
-    "text": "Беседа"
+    "text": "Общение"
   },
   {
+    "id": 3,
     "image": "http://localhost:3333/files/images/user-group-man-man--v1.png",
     "text": "Люди"
   },
   {
+    "id": 4,
     "image": "http://localhost:3333/files/images/smiling-face-with-hearts.png",
     "text": "Чувства"
   },
   {
+    "id": 5,
     "image": "http://localhost:3333/files/images/lunch.png",
     "text": "Еда"
   },
   {
+    "id": 6,
     "image": "http://localhost:3333/files/images/aquarium.png",
     "text": "Животные"
   },
   {
+    "id": 7,
     "image": "http://localhost:3333/files/images/school.png",
     "text": "Школа"
   },
   {
+    "id": 8,
     "image": "http://localhost:3333/files/images/reading.png",
-    "text": "Деятельность"
+    "text": "Активности"
   },
   {
+    "id": 9,
     "image": "http://localhost:3333/files/images/triangle-stroked.png",
     "text": "Формы"
   },
   {
+    "id": 10,
     "image": "http://localhost:3333/files/images/rainbow.png",
     "text": "Цвета"
   }
