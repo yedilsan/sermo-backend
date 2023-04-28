@@ -18,6 +18,7 @@ model User {
   hash      String
   firstName String?
   lastName  String?
+  avatar    String?
   role      Role[]   @default([USER])
 
   @@map("users")
@@ -69,4 +70,14 @@ model Exercise {
   sound              String
   exerciseCategory   ExerciseCategory? @relation(fields: [exerciseCategoryId], references: [id])
   exerciseCategoryId Int?
+}
+
+//logopeds
+model SpeechTherapist {
+  id      Int     @id @default(autoincrement())
+  name    String
+  phone   String
+  email   String?
+  address String?
+  rating  Int
 }

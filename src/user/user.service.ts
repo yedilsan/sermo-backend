@@ -20,4 +20,26 @@ export class UserService {
 
     return user;
   }
+  async editImage(userId: number, file: string) {
+    const user = await this.prisma.user.update({
+      where: {
+        id: userId,
+      },
+      data: {
+        avatar: file,
+      },
+    });
+
+    delete user.hash;
+
+    return user;
+  }
+  async getUsername(id: number) {
+    const user = await this.prisma.user.findUnique({
+      where: {
+        id,
+      },
+    });
+    return user;
+  }
 }

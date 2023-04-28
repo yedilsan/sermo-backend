@@ -9,6 +9,7 @@ import { PhraseBankModule } from './phrase-bank/phrase-bank.module';
 import { CategoryModule } from './category/category.module';
 import { ExercisesModule } from './exercises/exercises.module';
 import { ExerciseCategoryModule } from './exercise-category/exercise-category.module';
+import { SpeechTherapistModule } from './speech-therapist/speech-therapist.module';
 
 @Module({
   imports: [
@@ -24,6 +25,7 @@ import { ExerciseCategoryModule } from './exercise-category/exercise-category.mo
     CategoryModule,
     ExercisesModule,
     ExerciseCategoryModule,
+    SpeechTherapistModule,
   ],
 })
 export class AppModule {}

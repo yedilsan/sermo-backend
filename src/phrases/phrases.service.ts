@@ -14,7 +14,9 @@ export class PhrasesService {
   }
 
   findAll() {
-    return this.prisma.phrase.findMany();
+    return this.prisma.phrase.findMany({
+      orderBy: { id: 'asc' },
+    });
   }
 
   findOne(id: number) {

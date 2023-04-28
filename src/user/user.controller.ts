@@ -1,10 +1,30 @@
-import { Body, Controller, Get, Patch } from '@nestjs/common';
+import {
+  BadRequestException,
+  Body,
+  Controller,
+  Get,
+  Param,
+  Patch,
+  Res,
+  UploadedFile,
+  UseInterceptors,
+} from '@nestjs/common';
 import { User } from '@prisma/client';
 import { GetUser } from 'src/auth/decorator';
-//import { JwtGuard } from 'src/auth/guard/jwt.guard';
 import { EditUserDto } from './dto';
 import { UserService } from './user.service';
-import { Public } from 'decorators/public.decorator';
+import { FileInterceptor } from '@nestjs/platform-express';
+import { diskStorage } from 'multer';
+import { editFileName, imageFilter } from 'src/files/options/image.option';
+import { Response } from 'express';
+
+export const storage = {
+  storage: diskStorage({
+    destination: './uploads/profileimages',
+    filename: editFileName,
+  }),
+  fileFilter: imageFilter,
+};
 
 @Controller('users')
 export class UserController {
@@ -14,8 +34,31 @@ export class UserController {
   getMe(@GetUser() user: User) {
     return user;
   }
-  @Patch()
+  //@UseGuards(JwtGuard)
+  @Patch('edit')
   editUser(@GetUser('id') userId: number, @Body() dto: EditUserDto) {
     return this.userService.editUser(userId, dto);
+  }
+  @Patch('avatar')
+  @UseInterceptors(FileInterceptor('avatar', storage))
+  uploadImage(
+    @GetUser('id') userId: number,
+    @UploadedFile() file: Express.Multer.File,
+  ) {
+    if (!file) {
+      throw new BadRequestException('Not correct file type');
+    } else {
+      return this.userService.editImage(
+        userId,
+        `http://localhost:3333/users/image/${file.filename}`,
+      );
+    }
+  }
+  @Get('image/:filename')
+  async getAvatar(
+    @Param('filename') filename,
+    @Res() res: Response<Express.Response>,
+  ) {
+    res.sendFile(filename, { root: './uploads/profileimages' });
   }
 }
