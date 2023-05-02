@@ -17,6 +17,7 @@ import { FileInterceptor } from '@nestjs/platform-express';
 import { diskStorage } from 'multer';
 import { editFileName, imageFilter } from 'src/files/options/image.option';
 import { Response } from 'express';
+import { Public } from 'decorators/public.decorator';
 
 export const storage = {
   storage: diskStorage({
@@ -54,6 +55,7 @@ export class UserController {
       );
     }
   }
+  @Public()
   @Get('image/:filename')
   async getAvatar(
     @Param('filename') filename,

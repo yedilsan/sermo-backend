@@ -886,9 +886,786 @@
   },
   {
     "id": 127,
-    "text": "Она моя мама",
+    "text": "Она - моя мама",
     "emoji": ":)",
     "sound": "http://localhost:3333/files/audio/c498cfe85603e422cbf451147c6ebdda.mp3",
     "phraseBankId": 23
+  },
+  {
+    "id": 128,
+    "text": "Папочка",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/96df52cb32bce071d0df7b6ade6227ae.mp3",
+    "phraseBankId": 24
+  },
+  {
+    "id": 129,
+    "text": "Я люблю свою папу",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/5f8ae212525c9a1cb0de82be5030b88e.mp3",
+    "phraseBankId": 24
+  },
+  {
+    "id": 130,
+    "text": "Я люблю тебя папа",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/3658a12c9948f85884dff81f44ec8c2a.mp3",
+    "phraseBankId": 24
+  },
+  {
+    "id": 131,
+    "text": "Я скучаю по папе",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/6742620b937707b4525bb29dc5273582.mp3",
+    "phraseBankId": 24
+  },
+  {
+    "id": 132,
+    "text": "Мне не нравится мой папа",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/3986dc46605864e961c6dde9e2a281f1.mp3",
+    "phraseBankId": 24
+  },
+  {
+    "id": 133,
+    "text": "Спасибо за заботу обо мне",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/efeec68e9c725fbb5134c090a8848f37.mp3",
+    "phraseBankId": 24
+  },
+  {
+    "id": 134,
+    "text": "Он - мой папа",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/d390c2b3aaf0b5c4bfc475b1adb31e37.mp3",
+    "phraseBankId": 24
+  },
+  {
+    "id": 135,
+    "text": "Ты поможешь мне найти моего отца?",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/3b964fe03da15952a6046f803ad071d5.mp3",
+    "phraseBankId": 24
+  },
+  {
+    "id": 136,
+    "text": "Я люблю своих родителей",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/fb57831153d810e5252dd0a79d2bb422.mp3",
+    "phraseBankId": 25
+  },
+  {
+    "id": 137,
+    "text": "Я скучаю по своим родителям",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/233868d8df5c35506feb534f8ccb2ac5.mp3",
+    "phraseBankId": 25
+  },
+  {
+    "id": 138,
+    "text": "Они - мои родители",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/eff22e003917ffe7a445e1980834e784.mp3",
+    "phraseBankId": 25
+  },
+  {
+    "id": 139,
+    "text": "Я не люблю своих родителей",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/e80d15a17cb28b7e3998c7656837fee3.mp3",
+    "phraseBankId": 25
+  },
+  {
+    "id": 140,
+    "text": "Мои родители заботятся обо мне",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/4feabc6bcc6a35afc690fc1428c96f81.mp3",
+    "phraseBankId": 25
+  },
+  {
+    "id": 141,
+    "text": "Вы можете помочь мне найти моих родителей?",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/e291059954b502a5fa9e215f1f6e7345.mp3",
+    "phraseBankId": 25
+  },
+  {
+    "id": 142,
+    "text": "Я люблю своих бабушек и дедушек",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/35290e5f6d0cd3b0284dddb8830baa06.mp3",
+    "phraseBankId": 26
+  },
+  {
+    "id": 143,
+    "text": "Я люблю вас, бабушка и дедушка",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/b30d18563467468b70843cd3e2bb7f32.mp3",
+    "phraseBankId": 26
+  },
+  {
+    "id": 144,
+    "text": "Я скучаю по своим бабушке и дедушке",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/9f3fc1c30e79158745a74a022073558c.mp3",
+    "phraseBankId": 26
+  },
+  {
+    "id": 145,
+    "text": "Они мои бабушка и дедушка",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/96bcfa5dc96340c4d12529f74646613a.mp3",
+    "phraseBankId": 26
+  },
+  {
+    "id": 146,
+    "text": "Я не люблю своих бабушек и дедушек",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/a5fcca92e9d4d5dc97a3ddc6f1276b7a.mp3",
+    "phraseBankId": 26
+  },
+  {
+    "id": 147,
+    "text": "Мои бабушка и дедушка заботятся обо мне",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/ba2f9f88b5a98f2cbbf0efea7685a953.mp3",
+    "phraseBankId": 26
+  },
+  {
+    "id": 148,
+    "text": "Можете ли вы помочь мне найти моих бабушку и дедушку",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/eb40736b7b1fe3f2f869649292500f64.mp3",
+    "phraseBankId": 26
+  },
+  {
+    "id": 149,
+    "text": "Я люблю своего брата",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/13f459ba45e1ff31a3876ee83cbdc1a2.mp3",
+    "phraseBankId": 27
+  },
+  {
+    "id": 150,
+    "text": "Я люблю тебя, брат",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/17554e310cefd90096ac78f40aa51385.mp3",
+    "phraseBankId": 27
+  },
+  {
+    "id": 151,
+    "text": "Я скучаю по своему брату",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/2b11c44398c9d8df38345f61024e4914.mp3",
+    "phraseBankId": 27
+  },
+  {
+    "id": 152,
+    "text": "Он мой брат",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/4799df4dc5f5b1297221019daafd3d45.mp3",
+    "phraseBankId": 27
+  },
+  {
+    "id": 153,
+    "text": "Мне не нравится мой брат",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/bbb7e619bebbce7b88749cdef182764f.mp3",
+    "phraseBankId": 27
+  },
+  {
+    "id": 154,
+    "text": "Мой брат заботится обо мне",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/9f907351cf67864c6e5cf27184edac7d.mp3",
+    "phraseBankId": 27
+  },
+  {
+    "id": 155,
+    "text": "Вы можете помочь мне найти моего брата?",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/6ab5bde42dbe1c14136dea06fcf7376d.mp3",
+    "phraseBankId": 27
+  },
+  {
+    "id": 156,
+    "text": "Я люблю свою сестру",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/105a2bc1744137b8260eac5af561175d.mp3",
+    "phraseBankId": 28
+  },
+  {
+    "id": 157,
+    "text": "Я люблю тебя, сестра",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/91156d31193d85b29f3161a0bc72937a.mp3",
+    "phraseBankId": 28
+  },
+  {
+    "id": 158,
+    "text": "Я скучаю по своей сестре",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/6cdd36bb229be4c107c7c3d30a74b5f1.mp3",
+    "phraseBankId": 28
+  },
+  {
+    "id": 159,
+    "text": "Она - моя сестра",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/71ba27a9aa66149629bd1202da415921.mp3",
+    "phraseBankId": 28
+  },
+  {
+    "id": 160,
+    "text": "Мне не нравится моя сестра",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/feec634f233c238f337d4ff45c53ffae.mp3",
+    "phraseBankId": 28
+  },
+  {
+    "id": 161,
+    "text": "Моя сестра заботится обо мне",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/1fb3f6081a516bc97845d6a90ae72700.mp3",
+    "phraseBankId": 28
+  },
+  {
+    "id": 162,
+    "text": "Вы можете помочь мне найти мою сестру?",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/0d986e30f415adbb4bdbc16f3f09dc42.mp3",
+    "phraseBankId": 28
+  },
+  {
+    "id": 163,
+    "text": "Я люблю своего дядю",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/f8de3cce6d773e9ecf0361c912997d07.mp3",
+    "phraseBankId": 29
+  },
+  {
+    "id": 164,
+    "text": "Я люблю тебя дядя",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/a82c3939c7b799cd8b40c2290417ebfc.mp3",
+    "phraseBankId": 29
+  },
+  {
+    "id": 165,
+    "text": "Я скучаю по дяде",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/2062b423de80467ba69730b0bf47d915.mp3",
+    "phraseBankId": 29
+  },
+  {
+    "id": 166,
+    "text": "Он - мой дядя",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/a01de4c7492066089de67906c608ec68.mp3",
+    "phraseBankId": 29
+  },
+  {
+    "id": 167,
+    "text": "Я не люблю своего дядю",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/a90e45fa25a1e9278a4ef0b18a5df4e3.mp3",
+    "phraseBankId": 29
+  },
+  {
+    "id": 168,
+    "text": "Вы можете помочь мне найти моего дядю?",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/f8b2133dd6425dcd38ed67bd6560912c.mp3",
+    "phraseBankId": 29
+  },
+  {
+    "id": 169,
+    "text": "Я люблю свою тетю",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/4aa8c340a13eb0c5a81b491da306b0c8.mp3",
+    "phraseBankId": 30
+  },
+  {
+    "id": 170,
+    "text": "Я люблю тебя, тетя",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/e0d912ce2d951761f9d14a7aeacdde65.mp3",
+    "phraseBankId": 30
+  },
+  {
+    "id": 171,
+    "text": "Я скучаю по своей тете",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/75e1c063bdeed561334030fcf3dce59c.mp3",
+    "phraseBankId": 30
+  },
+  {
+    "id": 172,
+    "text": "Она - моя тетя",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/e82d2552a400afd5d225a997f7fd0602.mp3",
+    "phraseBankId": 30
+  },
+  {
+    "id": 173,
+    "text": "Мне не нравится моя тетя",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/46df622624108261a9fc9397734f6fc1.mp3",
+    "phraseBankId": 30
+  },
+  {
+    "id": 174,
+    "text": "Вы можете помочь мне найти мою тетю?",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/cabce103a9b81a79daedac02559a0958.mp3",
+    "phraseBankId": 30
+  },
+  {
+    "id": 175,
+    "text": "Я люблю своего учителя",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/b98f4f2cc884daa5bf678f8a95f5fb76.mp3",
+    "phraseBankId": 31
+  },
+  {
+    "id": 176,
+    "text": "Я люблю тебя учитель",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/f957d90c68f4cf96d36b880218a92368.mp3",
+    "phraseBankId": 31
+  },
+  {
+    "id": 177,
+    "text": "Мне не нравится мой учитель",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/617f04c844b71f44f2f4cf463658f425.mp3",
+    "phraseBankId": 31
+  },
+  {
+    "id": 178,
+    "text": "Я скучаю по своему учителю",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/813b278b5ac202438cfeafd812f895e2.mp3",
+    "phraseBankId": 31
+  },
+  {
+    "id": 179,
+    "text": "Спасибо за урок",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/724bc25736ecaa29dddea6fca4c4d792.mp3",
+    "phraseBankId": 31
+  },
+  {
+    "id": 180,
+    "text": "Я люблю своего терапевта",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/d5f3e618ff20188fd50511fab655aac4.mp3",
+    "phraseBankId": 32
+  },
+  {
+    "id": 181,
+    "text": "Я люблю тебя, терапевт",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/4448aa14373a08fff464c18f7b9f94c1.mp3",
+    "phraseBankId": 32
+  },
+  {
+    "id": 182,
+    "text": "Мне не нравится мой терапевт",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/8f1c5614079898492d635ebe3384f6c1.mp3",
+    "phraseBankId": 32
+  },
+  {
+    "id": 183,
+    "text": "Я скучаю по своему терапевту",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/2788585c20eaa5cb3f58aae54e0f0a16.mp3",
+    "phraseBankId": 32
+  },
+  {
+    "id": 184,
+    "text": "Спасибо за сеанс",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/1146b3a0b16def95b3ab6338e0842aa0.mp3",
+    "phraseBankId": 32
+  },
+  {
+    "id": 185,
+    "text": "Я люблю своего доктора",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/1b65555d24321666ebea54c5bca931ba.mp3",
+    "phraseBankId": 33
+  },
+  {
+    "id": 186,
+    "text": "Я люблю тебя доктор",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/c9d510a2466ec92573274d471fde4f05.mp3",
+    "phraseBankId": 33
+  },
+  {
+    "id": 187,
+    "text": "Мне не нравится мой врач",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/8ea476b042af4f91f37c854ab2642e39.mp3",
+    "phraseBankId": 33
+  },
+  {
+    "id": 188,
+    "text": "Я скучаю по своему доктору",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/31134fde3d5ae65e7d60d2a7fb94d6f2.mp3",
+    "phraseBankId": 33
+  },
+  {
+    "id": 189,
+    "text": "Спасибо, что исцелил меня",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/30b1361d1cbc2501da1c2b2998b33a14.mp3",
+    "phraseBankId": 33
+  },
+  {
+    "id": 190,
+    "text": "Я люблю своих друзей",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/1b253e0afbf9b4f9808298d37f7aa46d.mp3",
+    "phraseBankId": 34
+  },
+  {
+    "id": 191,
+    "text": "Ты хочешь быть моим другом?",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/f4d4c5e9d8b08c274f03e77b938518c3.mp3",
+    "phraseBankId": 34
+  },
+  {
+    "id": 192,
+    "text": "Я не люблю своих друзей",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/c44aaab58fc737987b7221651b5aa513.mp3",
+    "phraseBankId": 34
+  },
+  {
+    "id": 193,
+    "text": "Я скучаю по своим друзьям",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/9d92d8653ea7c39b27690921bf10f966.mp3",
+    "phraseBankId": 34
+  },
+  {
+    "id": 194,
+    "text": "Они мои друзья",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/59346b7d02b001a3e7d1541d3f8506af.mp3",
+    "phraseBankId": 34
+  },
+  {
+    "id": 195,
+    "text": "Спасибо за игру со мной",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/022f03a87fe249364a27d6b5de7c2070.mp3",
+    "phraseBankId": 34
+  },
+  {
+    "id": 196,
+    "text": "Я люблю свою девушку",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/b3bd72e407d06b82115c4fd204de4dbe.mp3",
+    "phraseBankId": 35
+  },
+  {
+    "id": 197,
+    "text": "Она моя подруга",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/e17ba24ae332f05c7901f321c8beeea7.mp3",
+    "phraseBankId": 35
+  },
+  {
+    "id": 198,
+    "text": "Я скучаю по своей девушка",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/dd0fb9b7de3a146ff69ac46278a16fd4.mp3",
+    "phraseBankId": 35
+  },
+  {
+    "id": 199,
+    "text": "Она моя вторая половинка",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/95338b974f8035078c785f88144f5737.mp3",
+    "phraseBankId": 35
+  },
+  {
+    "id": 200,
+    "text": "Я влюблен в свою девушку",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/93b28b6462dd35c3c4e526a492c51fd5.mp3",
+    "phraseBankId": 35
+  },
+  {
+    "id": 201,
+    "text": "Мне не нравится моя подруга",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/1f76fdaca943731789b90186a1b804eb.mp3",
+    "phraseBankId": 35
+  },
+  {
+    "id": 202,
+    "text": "Я люблю своего парня",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/8d79941d0446af76d467ac5104eb3757.mp3",
+    "phraseBankId": 36
+  },
+  {
+    "id": 203,
+    "text": "Он мой друг",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/d299814c4d0ad9c4bc6254896281bf41.mp3",
+    "phraseBankId": 36
+  },
+  {
+    "id": 204,
+    "text": "Я скучаю по своему другу",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/67631c707671cd5104063354640d65e8.mp3",
+    "phraseBankId": 36
+  },
+  {
+    "id": 205,
+    "text": "Он моя вторая половинка",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/7c8926fad89d26446c4e78d1e5ff0e55.mp3",
+    "phraseBankId": 36
+  },
+  {
+    "id": 206,
+    "text": "Я влюблена в своего парня",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/fd24491bf6e8b5a5242fa0e574c1319a.mp3",
+    "phraseBankId": 36
+  },
+  {
+    "id": 207,
+    "text": "Мне не нравится мой друг",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/21c5d75d7edde91db882aaf3fbac8c82.mp3",
+    "phraseBankId": 36
+  },
+  {
+    "id": 208,
+    "text": "Я люблю своих двоюродных братьев",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/01706f1f78cc4a42bd87b16ced7b59c2.mp3",
+    "phraseBankId": 37
+  },
+  {
+    "id": 209,
+    "text": "У меня нет кузенов",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/dee7e3f48ca4aeee634ffce7c2c8e1f9.mp3",
+    "phraseBankId": 37
+  },
+  {
+    "id": 210,
+    "text": "Я скучаю по своим двоюродным братьям",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/776d4cd6a83e739f77e9b9539f73845c.mp3",
+    "phraseBankId": 37
+  },
+  {
+    "id": 211,
+    "text": "Они мои двоюродные братья",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/c5b128464601f499a3b7e0b80a57f5c4.mp3",
+    "phraseBankId": 37
+  },
+  {
+    "id": 212,
+    "text": "Я не люблю своих двоюродных братьев",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/aeb7412abadd537b780f22ea761e016e.mp3",
+    "phraseBankId": 37
+  },
+  {
+    "id": 213,
+    "text": "Я люблю свою бабушку",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/90ec1ef198982644f42d1b46199424ca.mp3",
+    "phraseBankId": 38
+  },
+  {
+    "id": 214,
+    "text": "Я люблю тебя бабушка",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/8bb1c7eecdcdade920fd640ca5a10db5.mp3",
+    "phraseBankId": 38
+  },
+  {
+    "id": 215,
+    "text": "Я скучаю по бабушке",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/dfefe41394d789644a136b758ccb5545.mp3",
+    "phraseBankId": 38
+  },
+  {
+    "id": 216,
+    "text": "Она моя бабушка",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/7ea4c7ef4e0a09e0bf8b40eae0b0adca.mp3",
+    "phraseBankId": 38
+  },
+  {
+    "id": 217,
+    "text": "Я не люблю свою бабушку",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/d7a95bc0860b824d29f517799e4b4c37.mp3",
+    "phraseBankId": 38
+  },
+  {
+    "id": 218,
+    "text": "Я люблю своего дедушку",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/f70f867b1ceffc98f03a0d9ed54f0cde.mp3",
+    "phraseBankId": 39
+  },
+  {
+    "id": 219,
+    "text": "Я люблю тебя, дедушка",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/47a46d4d27c0551672905e32fab5ecb3.mp3",
+    "phraseBankId": 39
+  },
+  {
+    "id": 220,
+    "text": "Я скучаю по дедушке",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/5e4b1deb55e29ba0b73883c0488fd3bd.mp3",
+    "phraseBankId": 39
+  },
+  {
+    "id": 221,
+    "text": "Он мой дедушка",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/34465af8554c8f5f1e5c76d3c3ff8b49.mp3",
+    "phraseBankId": 39
+  },
+  {
+    "id": 222,
+    "text": "Я не люблю своего дедушку",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/1f059850c695ccb278ad5d22b0d3b8c3.mp3",
+    "phraseBankId": 39
+  },
+  {
+    "id": 223,
+    "text": "Я люблю своего отчима",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/210ecc688dfcdbd283ae550cdc58b5d1.mp3",
+    "phraseBankId": 40
+  },
+  {
+    "id": 224,
+    "text": "Он мой отчим",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/f8b20a6706fe2b8a2bdbde06f96692a1.mp3",
+    "phraseBankId": 40
+  },
+  {
+    "id": 225,
+    "text": "Я скучаю по отчиму",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/ee0d74f49ae342e21dded3509455b794.mp3",
+    "phraseBankId": 40
+  },
+  {
+    "id": 226,
+    "text": "Мне не нравится мой отчим",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/0441f8c5796dbd5f43143d97bbdaa13d.mp3",
+    "phraseBankId": 40
+  },
+  {
+    "id": 227,
+    "text": "Я люблю свою мачеху",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/856dd1d0f9867c5e71fc04e0c7c8a298.mp3",
+    "phraseBankId": 41
+  },
+  {
+    "id": 228,
+    "text": "Она моя мачеха",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/f93e2e1617093e606fac7a6fb2206b87.mp3",
+    "phraseBankId": 41
+  },
+  {
+    "id": 229,
+    "text": "Я скучаю по мачехе",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/107e7eed44642f085a345ef967625e9b.mp3",
+    "phraseBankId": 41
+  },
+  {
+    "id": 230,
+    "text": "Я не люблю свою мачеху",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/de1389f99fa05db1dae89a2e128243de.mp3",
+    "phraseBankId": 41
+  },
+  {
+    "id": 231,
+    "text": "Я люблю свою сводную сестру",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/1c06269e554c493fe43417e3b229d603.mp3",
+    "phraseBankId": 42
+  },
+  {
+    "id": 232,
+    "text": "Она моя сводная сестра",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/ebebaedf3b356c409498ac958a802d43.mp3",
+    "phraseBankId": 42
+  },
+  {
+    "id": 233,
+    "text": "Я скучаю по своей сводной сестре",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/acdb7a297b0a430164b3fecd9a8130f7.mp3",
+    "phraseBankId": 42
+  },
+  {
+    "id": 234,
+    "text": "Мне не нравится моя сводная сестра",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/1a26090fccc9814211951a4614af47a9.mp3",
+    "phraseBankId": 42
+  },
+  {
+    "id": 235,
+    "text": "Я люблю своего сводного брата",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/be616eebb3a5f41715e26b24e8f56273.mp3",
+    "phraseBankId": 43
+  },
+  {
+    "id": 236,
+    "text": "Он мой сводный брат",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/eee73c7f024108becee51f3492d2a8f3.mp3",
+    "phraseBankId": 43
+  },
+  {
+    "id": 237,
+    "text": "Я скучаю по своему сводному брату",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/d564195b2aeea97ca220d87b4a44cccf.mp3",
+    "phraseBankId": 43
+  },
+  {
+    "id": 238,
+    "text": "Мне не нравится мой сводный брат",
+    "emoji": ":)",
+    "sound": "http://localhost:3333/files/audio/6802faa98a2007f78c972cfbbb0d7ebc.mp3",
+    "phraseBankId": 43
   }
 ]
