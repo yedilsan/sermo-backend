@@ -7,9 +7,12 @@ import { UpdateCategoryDto } from './dto/update-category.dto';
 export class CategoryService {
   constructor(private readonly prisma: PrismaService) {}
 
-  create(createCategoryDto: CreateCategoryDto) {
-    return this.prisma.category.create({
-      data: createCategoryDto,
+  async create(createCategoryDto: CreateCategoryDto, imageURL: string) {
+    return await this.prisma.category.create({
+      data: {
+        text: createCategoryDto.text,
+        image: imageURL,
+      },
     });
   }
 

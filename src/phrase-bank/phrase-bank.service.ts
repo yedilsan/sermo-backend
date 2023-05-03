@@ -14,7 +14,9 @@ export class PhraseBankService {
   }
 
   findAll() {
-    return this.prisma.phraseBank.findMany();
+    return this.prisma.phraseBank.findMany({
+      orderBy: { id: 'asc' },
+    });
   }
 
   findOne(id: number) {
