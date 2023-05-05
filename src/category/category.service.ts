@@ -1,7 +1,8 @@
-import { Injectable } from '@nestjs/common';
+import { Injectable, NotFoundException } from '@nestjs/common';
 import { PrismaService } from 'src/prisma/prisma.service';
 import { CreateCategoryDto } from './dto/create-category.dto';
 import { UpdateCategoryDto } from './dto/update-category.dto';
+import { unlink } from 'fs/promises';
 
 @Injectable()
 export class CategoryService {
@@ -30,7 +31,30 @@ export class CategoryService {
     });
   }
 
-  update(id: number, updateCategoryDto: UpdateCategoryDto, imageURL: string) {
+  async update(
+    id: number,
+    updateCategoryDto: UpdateCategoryDto,
+    imageURL: string,
+  ) {
+    const category = await this.prisma.category.findUnique({
+      where: {
+        id,
+      },
+    });
+    if (!category) {
+      throw new NotFoundException('Category not found');
+    }
+    if (category.image) {
+      try {
+        const imagePath = category.image.split(
+          'http://localhost:3333/files/images/',
+        )[1];
+        await unlink(`./uploads/${imagePath}`);
+      } catch (error) {
+        console.error(`Error deleting previous image: ${error.message}`);
+      }
+    }
+
     return this.prisma.category.update({
       where: {
         id,
