@@ -8,7 +8,6 @@ import {
   Delete,
   UseInterceptors,
   UploadedFile,
-  BadRequestException,
 } from '@nestjs/common';
 import { CategoryService } from './category.service';
 import { CreateCategoryDto } from './dto/create-category.dto';
@@ -19,6 +18,14 @@ import { FileInterceptor } from '@nestjs/platform-express';
 import { diskStorage } from 'multer';
 import { editFileName, imageFilter } from 'src/files/options/image.option';
 
+export const storage = {
+  storage: diskStorage({
+    destination: './uploads',
+    filename: editFileName,
+  }),
+  fileFilter: imageFilter,
+};
+
 @Controller('category')
 export class CategoryController {
   constructor(private readonly categoryService: CategoryService) {}
@@ -26,16 +33,8 @@ export class CategoryController {
   //@Roles('ADMIN')
   @Public()
   @Post()
-  @UseInterceptors(
-    FileInterceptor('image', {
-      storage: diskStorage({
-        destination: './uploads',
-        filename: editFileName,
-      }),
-      fileFilter: imageFilter,
-    }),
-  )
-  async create(
+  @UseInterceptors(FileInterceptor('image', storage))
+  create(
     @Body() createCategoryDto: CreateCategoryDto,
     @UploadedFile() file: Express.Multer.File,
   ) {
@@ -58,11 +57,14 @@ export class CategoryController {
 
   @Patch(':id')
   //@Roles('ADMIN')
+  @UseInterceptors(FileInterceptor('image', storage))
   update(
     @Param('id') id: string,
     @Body() updateCategoryDto: UpdateCategoryDto,
+    @UploadedFile() file: Express.Multer.File,
   ) {
-    return this.categoryService.update(+id, updateCategoryDto);
+    const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
+    return this.categoryService.update(+id, updateCategoryDto, imageUrl);
   }
 
   @Delete(':id')

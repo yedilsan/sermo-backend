@@ -5,9 +5,5 @@ import { IsNotEmpty, IsString } from 'class-validator';
 export class UpdateCategoryDto extends PartialType(CreateCategoryDto) {
   @IsString()
   @IsNotEmpty()
-  image: string;
-
-  @IsString()
-  @IsNotEmpty()
   text: string;
 }
