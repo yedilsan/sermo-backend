@@ -38,6 +38,7 @@ export class UserController {
   //@UseGuards(JwtGuard)
   @Patch('edit')
   editUser(@GetUser('id') userId: number, @Body() dto: EditUserDto) {
+    console.log(userId);
     return this.userService.editUser(userId, dto);
   }
   @Patch('avatar')
