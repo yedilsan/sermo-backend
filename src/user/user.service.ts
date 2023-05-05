@@ -7,6 +7,24 @@ import { unlink } from 'fs/promises';
 export class UserService {
   constructor(private prisma: PrismaService) {}
 
+  async getAllUsers() {
+    const users = await this.prisma.user.findMany({
+      select: {
+        id: true,
+        firstName: true,
+        lastName: true,
+        email: true,
+        createdAt: true,
+        updatedAt: true,
+        avatar: true,
+      },
+      orderBy: {
+        createdAt: 'desc',
+      },
+    });
+    return users;
+  }
+
   async editUser(userId: number, editUserDto: EditUserDto) {
     const user = await this.prisma.user.update({
       where: {

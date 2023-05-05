@@ -35,6 +35,13 @@ export class UserController {
   getMe(@GetUser() user: User) {
     return user;
   }
+  @Public()
+  @Get()
+  async getAllUsers() {
+    const users = await this.userService.getAllUsers();
+    return users;
+  }
+
   //@UseGuards(JwtGuard)
   @Patch('edit')
   editUser(@GetUser('id') userId: number, @Body() dto: EditUserDto) {
