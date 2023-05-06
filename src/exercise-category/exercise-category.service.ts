@@ -14,7 +14,7 @@ export class ExerciseCategoryService {
   }
 
   findAll() {
-    return this.prisma.exerciseCategory.findMany;
+    return this.prisma.exerciseCategory.findMany();
   }
 
   findOne(id: number) {
