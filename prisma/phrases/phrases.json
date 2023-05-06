@@ -2254,3402 +2254,3969 @@
     "id": 322,
     "emoji": "‼️",
     "text": "Я хочу есть.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 63
   },
   {
     "id": 323,
     "emoji": "❓",
     "text": "Вы голодны?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 63
   },
   {
     "id": 324,
     "emoji": "🙋",
     "text": "Можешь приготовить мне еду?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 63
   },
   {
     "id": 325,
     "emoji": "🍳",
     "text": "Что на ужин?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 63
   },
   {
     "id": 326,
     "emoji": "‼️",
     "text": "Я испытываю жажду.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 64
   },
   {
     "id": 327,
     "emoji": "🌊",
     "text": "Можно ли мне немного воды?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 64
   },
   {
     "id": 328,
     "emoji": "🥛",
     "text": "Могу я попросить стакан воды?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 64
   },
   {
     "id": 329,
     "emoji": "🙋",
     "text": "Я хочу что-нибудь выпить.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 64
   },
   {
     "id": 330,
     "emoji": "🙋",
     "text": "Мне нужны столовые приборы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 65
   },
   {
     "id": 331,
     "emoji": "🍽️",
     "text": "Помоги мне пользоваться столовыми приборами.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 65
   },
   {
     "id": 332,
     "emoji": "🍴",
     "text": "Мне нужна вилка.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 65
   },
   {
     "id": 333,
     "emoji": "🥄",
     "text": "Мне нужна ложка.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 65
   },
   {
     "id": 334,
     "emoji": "🥢",
     "text": "Мне нужны палочки для еды.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 65
   },
   {
     "id": 335,
     "emoji": "🔪",
     "text": "Мне нужен нож.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 65
   },
   {
     "id": 336,
     "emoji": "🧻",
     "text": "Мне нужна салфетка.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 65
   },
   {
     "id": 337,
     "emoji": "🙋",
     "text": "Я сыт.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 66
   },
   {
     "id": 338,
     "emoji": "✅",
     "text": "Все сделано!",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 66
   },
   {
     "id": 339,
     "emoji": "❌",
     "text": "Я больше не хочу есть.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 66
   },
   {
     "id": 340,
     "emoji": "❤️",
     "text": "Я люблю яблоко.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 67
   },
   {
     "id": 341,
     "emoji": "❌",
     "text": "Я не люблю яблоко.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 67
   },
   {
     "id": 342,
     "emoji": "🙋",
     "text": "Я хочу съесть яблоко.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 67
   },
   {
     "id": 343,
     "emoji": "❤️",
     "text": "Мне нравится морковь.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 68
   },
   {
     "id": 344,
     "emoji": "❌",
     "text": "Я не люблю морковь.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 68
   },
   {
     "id": 345,
     "emoji": "🙋",
     "text": "Я хочу съесть морковку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 68
   },
   {
     "id": 346,
     "emoji": "❤️",
     "text": "Я люблю бобы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 69
   },
   {
     "id": 347,
     "emoji": "❌",
     "text": "Я не люблю бобы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 69
   },
   {
     "id": 348,
     "emoji": "🙋",
     "text": "Я хочу есть бобы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 69
   },
   {
     "id": 349,
     "emoji": "❤️",
     "text": "Я люблю курицу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 70
   },
   {
     "id": 350,
     "emoji": "❌",
     "text": "Я не люблю курицу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 70
   },
   {
     "id": 351,
     "emoji": "🙋",
     "text": "Я хочу есть курицу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 70
   },
   {
     "id": 352,
     "emoji": "🍗",
     "text": "Я хочу жареного цыпленка.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 70
   },
   {
     "id": 353,
     "emoji": "🐣",
     "text": "Я хочу вареную курицу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 70
   },
   {
     "id": 354,
     "emoji": "❤️",
     "text": "Мне нравится шоколад.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 71
   },
   {
     "id": 355,
     "emoji": "❌",
     "text": "Я не люблю шоколад.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 71
   },
   {
     "id": 356,
     "emoji": "🙋",
     "text": "Я хочу съесть шоколад.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 71
   },
   {
     "id": 357,
     "emoji": "⚫",
     "text": "Я хочу горький шоколад.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 71
   },
   {
     "id": 358,
     "emoji": "⚪",
     "text": "Я хочу белый шоколад.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 71
   },
   {
     "id": 359,
     "emoji": "❤️",
     "text": "Я люблю молоко.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 72
   },
   {
     "id": 360,
     "emoji": "❌",
     "text": "Я не люблю молоко.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 72
   },
   {
     "id": 361,
     "emoji": "🙋",
     "text": "Я хочу пить молоко.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 72
   },
   {
     "id": 362,
     "emoji": "🥛",
     "text": "Можно мне стакан молока?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 72
   },
   {
     "id": 363,
     "emoji": "❤️",
     "text": "Мне нравится бутерброд.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 73
   },
   {
     "id": 364,
     "emoji": "❌",
     "text": "Я не люблю сэндвич.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 73
   },
   {
     "id": 365,
     "emoji": "🙋",
     "text": "Я хочу съесть бутерброд.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 73
   },
   {
     "id": 366,
     "emoji": "🥪",
     "text": "Можешь сделать мне бутерброд?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 73
   },
   {
     "id": 367,
     "emoji": "❤️",
     "text": "Мне нравится стейк.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 74
   },
   {
     "id": 368,
     "emoji": "❌",
     "text": "Я не люблю стейк.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 74
   },
   {
     "id": 369,
     "emoji": "🙋",
     "text": "Я хочу съесть стейк.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 74
   },
   {
     "id": 370,
     "emoji": "🥩",
     "text": "Можешь приготовить мне стейк?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 74
   },
   {
     "id": 371,
     "emoji": "❤️",
     "text": "Мне нравится банан.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 75
   },
   {
     "id": 372,
     "emoji": "❌",
     "text": "Я не люблю банан.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 75
   },
   {
     "id": 373,
     "emoji": "🙋",
     "text": "Я хочу съесть банан.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 75
   },
   {
     "id": 374,
     "emoji": "❤️",
     "text": "Мне нравится пирог.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 76
   },
   {
     "id": 375,
     "emoji": "❌",
     "text": "Я не люблю пирог.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 76
   },
   {
     "id": 376,
     "emoji": "🙋",
     "text": "Я хочу съесть пирог.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 76
   },
   {
     "id": 377,
     "emoji": "🥧",
     "text": "Можешь испечь для меня пирог?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 76
   },
   {
     "id": 378,
     "emoji": "❤️",
     "text": "Я люблю яйца.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 77
   },
   {
     "id": 379,
     "emoji": "❌",
     "text": "Я не люблю яйца.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 77
   },
   {
     "id": 380,
     "emoji": "🙋",
     "text": "Я хочу есть яйца.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 77
   },
   {
     "id": 381,
     "emoji": "🍳",
     "text": "Я хочу яичницу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 77
   },
   {
     "id": 382,
     "emoji": "🥚",
     "text": "Я хочу вареные яйца.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 77
   },
   {
     "id": 383,
     "emoji": "❤️",
     "text": "Мне нравится лапша.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 78
   },
   {
     "id": 384,
     "emoji": "❌",
     "text": "Я не люблю лапшу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 78
   },
   {
     "id": 385,
     "emoji": "🙋",
     "text": "Я хочу есть лапшу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 78
   },
   {
     "id": 386,
     "emoji": "🍜",
     "text": "Можешь приготовить мне лапшу?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 78
   },
   {
     "id": 387,
     "emoji": "🙋",
     "text": "Я хочу соль.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 79
   },
   {
     "id": 388,
     "emoji": "❓",
     "text": "Ты не мог бы передать мне соль?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 79
   },
   {
     "id": 389,
     "emoji": "🧂",
     "text": "Эта еда слишком соленая.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 79
   },
   {
     "id": 390,
     "emoji": "🧂",
     "text": "Моя еда нуждается в соли.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 79
   },
   {
     "id": 391,
     "emoji": "❤️",
     "text": "Я люблю острую пищу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 80
   },
   {
     "id": 392,
     "emoji": "❌",
     "text": "Я не люблю острую пищу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 80
   },
   {
     "id": 393,
     "emoji": "🙋",
     "text": "Я хочу перец.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 80
   },
   {
     "id": 394,
     "emoji": "⚫",
     "text": "Я хочу черный перец.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 80
   },
   {
     "id": 395,
     "emoji": "❤️",
     "text": "Мне нравится пицца.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 80
   },
   {
     "id": 396,
     "emoji": "❌",
     "text": "Я не люблю пиццу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 81
   },
   {
     "id": 397,
     "emoji": "🙋",
     "text": "Я хочу съесть пиццу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 81
   },
   {
     "id": 398,
     "emoji": "🍕",
     "text": "Можешь приготовить мне пиццу?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 81
   },
   {
     "id": 399,
     "emoji": "☝️",
     "text": "Мы можем заказать пиццу?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 81
   },
   {
     "id": 400,
     "emoji": "❤️",
     "text": "Я люблю сыр.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 82
   },
   {
     "id": 401,
     "emoji": "❌",
     "text": "Я не люблю сыр.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 82
   },
   {
     "id": 402,
     "emoji": "🙋",
     "text": "Я хочу есть сыр.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 82
   },
   {
     "id": 403,
     "emoji": "❤️",
     "text": "Мне нравится рыба.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 83
   },
   {
     "id": 404,
     "emoji": "❌",
     "text": "Я не люблю рыбу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 83
   },
   {
     "id": 405,
     "emoji": "🙋",
     "text": "Я хочу есть рыбу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 83
   },
   {
     "id": 406,
     "emoji": "🐟",
     "text": "Можешь приготовить мне рыбу?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 83
   },
   {
     "id": 407,
     "emoji": "❤️",
     "text": "Я люблю мороженое.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 84
   },
   {
     "id": 408,
     "emoji": "❌",
     "text": "Я не люблю мороженое.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 84
   },
   {
     "id": 409,
     "emoji": "🙋",
     "text": "Я хочу есть мороженое.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 84
   },
   {
     "id": 410,
     "emoji": "🍨",
     "text": "Можешь купить мне мороженое?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 84
   },
   {
     "id": 411,
     "emoji": "❤️",
     "text": "Я люблю чай.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 85
   },
   {
     "id": 412,
     "emoji": "❌",
     "text": "Я не люблю чай.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 85
   },
   {
     "id": 413,
     "emoji": "🙋",
     "text": "Я хочу пить чай.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 85
   },
   {
     "id": 414,
     "emoji": "🍵",
     "text": "Ты можешь приготовить мне чай?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 85
   },
   {
     "id": 415,
     "emoji": "❤️",
     "text": "Я люблю кофе.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 86
   },
   {
     "id": 416,
     "emoji": "❌",
     "text": "Я не люблю кофе.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 86
   },
   {
     "id": 417,
     "emoji": "🙋",
     "text": "Я хочу пить кофе.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 86
   },
   {
     "id": 418,
     "emoji": "☕",
     "text": "Ты можешь приготовить мне кофе?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 86
   },
   {
     "id": 419,
     "emoji": "❤️",
     "text": "Мне нравится помидор.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 87
   },
   {
     "id": 420,
     "emoji": "❌",
     "text": "Я не люблю помидор.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 87
   },
   {
     "id": 421,
     "emoji": "🙋",
     "text": "Я хочу съесть помидор.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 87
   },
   {
     "id": 422,
     "emoji": "❤️",
     "text": "Мне нравятся хлопья.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 88
   },
   {
     "id": 423,
     "emoji": "❌",
     "text": "Я не люблю хлопья.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 88
   },
   {
     "id": 424,
     "emoji": "🙋",
     "text": "Я хочу есть хлопья.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 88
   },
   {
     "id": 425,
     "emoji": "🥣",
     "text": "Можешь приготовить мне хлопья?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 88
   },
   {
     "id": 426,
     "emoji": "❤️",
     "text": "Мне нравится бургер.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 89
   },
   {
     "id": 427,
     "emoji": "❌",
     "text": "Я не люблю бургер.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 89
   },
   {
     "id": 428,
     "emoji": "🙋",
     "text": "Я хочу съесть бургер.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 89
   },
   {
     "id": 429,
     "emoji": "🍔",
     "text": "Можешь приготовить мне бургер?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 89
   },
   {
     "id": 430,
     "emoji": "☝️",
     "text": "Мы можем заказать бургер?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 89
   },
   {
     "id": 431,
     "emoji": "❤️",
     "text": "Мне нравится картофель фри.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 90
   },
   {
     "id": 432,
     "emoji": "❌",
     "text": "Я не люблю картошку фри.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 90
   },
   {
     "id": 433,
     "emoji": "🙋",
     "text": "Я хочу съесть картошку фри.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 90
   },
   {
     "id": 434,
     "emoji": "🍟",
     "text": "Можешь приготовить мне картошку фри?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 90
   },
   {
     "id": 435,
     "emoji": "☝️",
     "text": "Мы можем заказать картофель фри?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 90
   },
   {
     "id": 436,
     "emoji": "❤️",
     "text": "Мне нравится шпинат.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 91
   },
   {
     "id": 437,
     "emoji": "❌",
     "text": "Я не люблю шпинат.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 91
   },
   {
     "id": 438,
     "emoji": "🙋",
     "text": "Я хочу есть шпинат.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 91
   },
   {
     "id": 439,
     "emoji": "❤️",
     "text": "Я люблю рис.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 92
   },
   {
     "id": 440,
     "emoji": "❌",
     "text": "Я не люблю рис.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 92
   },
   {
     "id": 441,
     "emoji": "🙋",
     "text": "Я хочу есть рис.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 92
   },
   {
     "id": 442,
     "emoji": "🍚",
     "text": "Можешь приготовить мне рис?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 92
   },
   {
     "id": 443,
     "emoji": "❤️",
     "text": "Я люблю хлеб.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 93
   },
   {
     "id": 444,
     "emoji": "❌",
     "text": "Я не люблю хлеб.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 93
   },
   {
     "id": 445,
     "emoji": "🙋",
     "text": "Я хочу есть хлеб.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 93
   },
   {
     "id": 446,
     "emoji": "🍞",
     "text": "Ты можешь купить немного хлеба?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 93
   },
   {
     "id": 447,
     "emoji": "❤️",
     "text": "Мне нравятся макароны.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 94
   },
   {
     "id": 448,
     "emoji": "❌",
     "text": "Я не люблю макароны.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 94
   },
   {
     "id": 449,
     "emoji": "🙋",
     "text": "Я хочу есть макароны.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 94
   },
   {
     "id": 450,
     "emoji": "🍝",
     "text": "Можешь приготовить мне макароны?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 94
   },
   {
     "id": 451,
     "emoji": "❤️",
     "text": "Мне нравится соус.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 95
   },
   {
     "id": 452,
     "emoji": "❌",
     "text": "Я не люблю соус.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 95
   },
   {
     "id": 453,
     "emoji": "🙋",
     "text": "Я хочу немного соуса.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 95
   },
   {
     "id": 454,
     "emoji": "🔴",
     "text": "Можно мне кетчуп?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 95
   },
   {
     "id": 455,
     "emoji": "⚪",
     "text": "Можно майонез?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 95
   },
   {
     "id": 456,
     "emoji": "🟡",
     "text": "Можно горчицу?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 95
   },
   {
     "id": 457,
     "emoji": "🥫",
     "text": "Можно мне соус ранч?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 95
   },
   {
     "id": 458,
     "emoji": "❤️",
     "text": "Мне нравится кебаб.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 96
   },
   {
     "id": 459,
     "emoji": "❌",
     "text": "Я не люблю кебаб.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 96
   },
   {
     "id": 460,
     "emoji": "🙋",
     "text": "Я хочу съесть кебаб.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 96
   },
   {
     "id": 461,
     "emoji": "🍢",
     "text": "Можешь приготовить мне шашлык?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 96
   },
   {
     "id": 462,
     "emoji": "☝️",
     "text": "Мы можем заказать кебаб?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 96
   },
   {
     "id": 463,
     "emoji": "❤️",
     "text": "Я люблю кошек.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 97
   },
   {
     "id": 464,
     "emoji": "🐈",
     "text": "Можем ли мы завести кошку в качестве домашнего питомца?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 97
   },
   {
     "id": 465,
     "emoji": "🍲",
     "text": "Мне нужно покормить моего кота.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 97
   },
   {
     "id": 466,
     "emoji": "🧼",
     "text": "Мне нужно почистить мою кошку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 97
   },
   {
     "id": 467,
     "emoji": "📿",
     "text": "Мне нужно взять мою кошку на прогулку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 97
   },
   {
     "id": 468,
     "emoji": "👀",
     "text": "Я видел кошку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 97
   },
   {
     "id": 469,
     "emoji": "🔊",
     "text": "Какой звук издает кошка?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 97
   },
   {
     "id": 470,
     "emoji": "❤️",
     "text": "Мне нравится собака.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 98
   },
   {
     "id": 471,
     "emoji": "🐕",
     "text": "Можем ли мы завести собаку в качестве домашнего питомца?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 98
   },
   {
     "id": 472,
     "emoji": "🍲",
     "text": "Мне нужно покормить мою собаку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 98
   },
   {
     "id": 473,
     "emoji": "🧼",
     "text": "Мне нужно почистить мою собаку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 98
   },
   {
     "id": 474,
     "emoji": "📿",
     "text": "Мне нужно взять мою собаку на прогулку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 98
   },
   {
     "id": 475,
     "emoji": "👀",
     "text": "Я видел собаку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 98
   },
   {
     "id": 476,
     "emoji": "🔊",
     "text": "Какой звук издает собака?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 98
   },
   {
     "id": 477,
     "emoji": "❤️",
     "text": "Мне нравится рыба.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 99
   },
   {
     "id": 478,
     "emoji": "🐠",
     "text": "Можем ли мы получить рыбу в качестве домашнего животного?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 99
   },
   {
     "id": 479,
     "emoji": "🍲",
     "text": "Мне нужно покормить рыб.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 99
   },
   {
     "id": 480,
     "emoji": "🧼",
     "text": "Мне нужно почистить рыбу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 99
   },
   {
     "id": 481,
     "emoji": "👀",
     "text": "Я увидел рыбу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 99
   },
   {
     "id": 482,
     "emoji": "🔊",
     "text": "Какой звук издает рыба?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 99
   },
   {
     "id": 483,
     "emoji": "❤️",
     "text": "Мне нравятся кролики.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 100
   },
   {
     "id": 484,
     "emoji": "🐇",
     "text": "Можем ли мы получить кролика в качестве домашнего животного?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 100
   },
   {
     "id": 485,
     "emoji": "🍲",
     "text": "Мне нужно покормить кролика.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 100
   },
   {
     "id": 486,
     "emoji": "🧼",
     "text": "Мне нужно почистить кролика.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 100
   },
   {
     "id": 487,
     "emoji": "👀",
     "text": "Я видел кролика.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 100
   },
   {
     "id": 488,
     "emoji": "🔊",
     "text": "Какой звук издает кролик?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 100
   },
   {
     "id": 489,
     "emoji": "❤️",
     "text": "Мне нравятся бабочки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 101
   },
   {
     "id": 490,
     "emoji": "👀",
     "text": "Я увидел бабочку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 101
   },
   {
     "id": 491,
     "emoji": "🔊",
     "text": "Какой звук издает бабочка?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 101
   },
   {
     "id": 492,
     "emoji": "❤️",
     "text": "Мне нравятся кенгуру.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 102
   },
   {
     "id": 493,
     "emoji": "👀",
     "text": "Я видел кенгуру.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 102
   },
   {
     "id": 494,
     "emoji": "🔊",
     "text": "Какой звук издает кенгуру?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 102
   },
   {
     "id": 495,
     "emoji": "❤️",
     "text": "Мне нравятся черепахи.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 103
   },
   {
     "id": 496,
     "emoji": "👀",
     "text": "Я видел черепаху.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 103
   },
   {
     "id": 497,
     "emoji": "🔊",
     "text": "Какой звук издает черепаха?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 103
   },
   {
     "id": 498,
     "emoji": "❤️",
     "text": "Мне нравятся жирафы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 104
   },
   {
     "id": 499,
     "emoji": "👀",
     "text": "Я видел жирафа.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 104
   },
   {
     "id": 500,
     "emoji": "🔊",
     "text": "Какой звук издает жираф?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 104
   },
   {
     "id": 501,
     "emoji": "❤️",
     "text": "Мне нравятся лягушки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 105
   },
   {
     "id": 502,
     "emoji": "👀",
     "text": "Я видел лягушку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 105
   },
   {
     "id": 503,
     "emoji": "🔊",
     "text": "Какой звук издает лягушка?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 105
   },
   {
     "id": 504,
     "emoji": "❤️",
     "text": "Мне нравятся лебеди.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 106
   },
   {
     "id": 505,
     "emoji": "👀",
     "text": "Я видел лебедя.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 106
   },
   {
     "id": 506,
     "emoji": "🔊",
     "text": "Какой звук издает лебедь?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 106
   },
   {
     "id": 507,
     "emoji": "❤️",
     "text": "Мне нравятся пауки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 107
   },
   {
     "id": 508,
     "emoji": "👀",
     "text": "Я видел паука.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 107
   },
   {
     "id": 509,
     "emoji": "🔊",
     "text": "Какой звук издает паук?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 107
   },
   {
     "id": 510,
     "emoji": "❤️",
     "text": "Мне нравятся коровы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 108
   },
   {
     "id": 511,
     "emoji": "👀",
     "text": "Я увидел корову.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 108
   },
   {
     "id": 512,
     "emoji": "🔊",
     "text": "Какой шум издает корова?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 108
   },
   {
     "id": 513,
     "emoji": "❤️",
     "text": "Мне нравятся утки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 109
   },
   {
     "id": 514,
     "emoji": "👀",
     "text": "Я видел утку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 109
   },
   {
     "id": 515,
     "emoji": "🔊",
     "text": "Какой звук издает утка?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 109
   },
   {
     "id": 516,
     "emoji": "❤️",
     "text": "Мне нравятся лошади.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 110
   },
   {
     "id": 517,
     "emoji": "👀",
     "text": "Я видел лошадь.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 110
   },
   {
     "id": 518,
     "emoji": "🔊",
     "text": "Какой звук издает лошадь?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 110
   },
   {
     "id": 519,
     "emoji": "❤️",
     "text": "Мне нравятся цыплята.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 111
   },
   {
     "id": 520,
     "emoji": "👀",
     "text": "Я видел курицу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 111
   },
   {
     "id": 521,
     "emoji": "🔊",
     "text": "Какой звук издает курица?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 111
   },
   {
     "id": 522,
     "emoji": "❤️",
     "text": "Мне нравятся пчелы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 112
   },
   {
     "id": 523,
     "emoji": "👀",
     "text": "Я увидел пчелу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 112
   },
   {
     "id": 524,
     "emoji": "🔊",
     "text": "Какой шум издает пчела?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 112
   },
   {
     "id": 525,
     "emoji": "❤️",
     "text": "Мне нравятся свиньи.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 113
   },
   {
     "id": 526,
     "emoji": "👀",
     "text": "Я видел свинью.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 113
   },
   {
     "id": 527,
     "emoji": "🔊",
     "text": "Какой звук издает свинья?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 113
   },
   {
     "id": 528,
     "emoji": "❤️",
     "text": "Мне нравятся голуби.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 114
   },
   {
     "id": 529,
     "emoji": "👀",
     "text": "Я увидел голубя.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 114
   },
   {
     "id": 530,
     "emoji": "🔊",
     "text": "Какой звук издает голубь?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 114
   },
   {
     "id": 531,
     "emoji": "❤️",
     "text": "Мне нравятся крабы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 115
   },
   {
     "id": 532,
     "emoji": "👀",
     "text": "Я видел краба.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 115
   },
   {
     "id": 533,
     "emoji": "🔊",
     "text": "Какой звук издает краб?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 115
   },
   {
     "id": 534,
     "emoji": "❤️",
     "text": "Мне нравятся пингвины.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 116
   },
   {
     "id": 535,
     "emoji": "👀",
     "text": "Я видел пингвина.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 116
   },
   {
     "id": 536,
     "emoji": "🔊",
     "text": "Какой звук издает пингвин?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 116
   },
   {
     "id": 537,
     "emoji": "❤️",
     "text": "Мне нравятся слоны.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 117
   },
   {
     "id": 538,
     "emoji": "👀",
     "text": "Я видел слона.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 117
   },
   {
     "id": 539,
     "emoji": "🔊",
     "text": "Какой звук издает слон?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 117
   },
   {
     "id": 540,
     "emoji": "❤️",
     "text": "Мне нравятся зебры.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 118
   },
   {
     "id": 541,
     "emoji": "👀",
     "text": "Я видел зебру.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 118
   },
   {
     "id": 542,
     "emoji": "🔊",
     "text": "Какой звук издает зебра?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 118
   },
   {
     "id": 543,
     "emoji": "❤️",
     "text": "Мне нравятся панды.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 119
   },
   {
     "id": 544,
     "emoji": "👀",
     "text": "Я видел панду.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 119
   },
   {
     "id": 545,
     "emoji": "🔊",
     "text": "Какой звук издает панда?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 119
   },
   {
     "id": 546,
     "emoji": "❤️",
     "text": "Мне нравятся обезьяны.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 120
   },
   {
     "id": 547,
     "emoji": "👀",
     "text": "Я видел обезьяну.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 120
   },
   {
     "id": 548,
     "emoji": "🔊",
     "text": "Какой звук издает обезьяна?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 120
   },
   {
     "id": 549,
     "emoji": "❤️",
     "text": "Мне нравятся верблюды.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 121
   },
   {
     "id": 550,
     "emoji": "👀",
     "text": "Я видел верблюда.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 121
   },
   {
     "id": 551,
     "emoji": "🔊",
     "text": "Какой звук издает верблюд?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 121
   },
   {
     "id": 552,
     "emoji": "❤️",
     "text": "Я люблю мышей.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 122
   },
   {
     "id": 553,
     "emoji": "👀",
     "text": "Я увидел мышь.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 122
   },
   {
     "id": 554,
     "emoji": "🔊",
     "text": "Какой звук издает мышь?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 122
   },
   {
     "id": 555,
     "emoji": "❤️",
     "text": "Мне нравятся тигры.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 123
   },
   {
     "id": 556,
     "emoji": "👀",
     "text": "Я видел тигра.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 123
   },
   {
     "id": 557,
     "emoji": "🔊",
     "text": "Какой звук издает тигр?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 123
   },
   {
     "id": 558,
     "emoji": "❤️",
     "text": "Мне нравятся медузы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 124
   },
   {
     "id": 559,
     "emoji": "👀",
     "text": "Я видел медузу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 124
   },
   {
     "id": 560,
     "emoji": "🔊",
     "text": "Какой звук издает медуза?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 124
   },
   {
     "id": 561,
     "emoji": "❤️",
     "text": "Мне нравятся крокодилы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 125
   },
   {
     "id": 562,
     "emoji": "👀",
     "text": "Я видел крокодила.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 125
   },
   {
     "id": 563,
     "emoji": "🔊",
     "text": "Какой звук издает крокодил?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 125
   },
   {
     "id": 564,
     "emoji": "❤️",
     "text": "Мне нравятся коалы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 126
   },
   {
     "id": 565,
     "emoji": "👀",
     "text": "Я видел коалу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 126
   },
   {
     "id": 566,
     "emoji": "🔊",
     "text": "Какой звук издает коала?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 126
   },
   {
     "id": 567,
     "emoji": "❤️",
     "text": "Мне нравятся страусы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 127
   },
   {
     "id": 568,
     "emoji": "👀",
     "text": "Я видел страуса.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 127
   },
   {
     "id": 569,
     "emoji": "🔊",
     "text": "Какой звук издает страус?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 127
   },
   {
     "id": 570,
     "emoji": "❤️",
     "text": "Мне нравятся еноты.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 128
   },
   {
     "id": 571,
     "emoji": "👀",
     "text": "Я видел енота.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 128
   },
   {
     "id": 572,
     "emoji": "🔊",
     "text": "Какой звук издает енот?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 128
   },
   {
     "id": 573,
     "emoji": "❤️",
     "text": "Мне нравятся летучие мыши.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 129
   },
   {
     "id": 574,
     "emoji": "👀",
     "text": "Я видел летучую мышь.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 129
   },
   {
     "id": 575,
     "emoji": "🔊",
     "text": "Какой звук издает летучая мышь?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 129
   },
   {
     "id": 576,
     "emoji": "❤️",
     "text": "Мне нравятся орлы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 130
   },
   {
     "id": 577,
     "emoji": "👀",
     "text": "Я видел орла.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 130
   },
   {
     "id": 578,
     "emoji": "🔊",
     "text": "Какой звук издает орел?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 130
   },
   {
     "id": 579,
     "emoji": "❤️",
     "text": "Мне нравится бегемот.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 131
   },
   {
     "id": 580,
     "emoji": "👀",
     "text": "Я видел бегемота.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 131
   },
   {
     "id": 581,
     "emoji": "🔊",
     "text": "Какой звук издает бегемот?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 131
   },
   {
     "id": 582,
     "emoji": "❤️",
     "text": "Мне нравятся тюлени.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 132
   },
   {
     "id": 583,
     "emoji": "👀",
     "text": "Я видел печать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 132
   },
   {
     "id": 584,
     "emoji": "🔊",
     "text": "Какой звук издает тюлень?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 132
   },
   {
     "id": 585,
     "emoji": "❤️",
     "text": "Мне нравятся моржи.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 132
   },
   {
     "id": 586,
     "emoji": "👀",
     "text": "Я видел моржа.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 133
   },
   {
     "id": 587,
     "emoji": "🔊",
     "text": "Какой звук издает морж?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 133
   },
   {
     "id": 588,
     "emoji": "❤️",
     "text": "Мне нравятся морские коньки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 134
   },
   {
     "id": 589,
     "emoji": "👀",
     "text": "Я видел морского конька.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 134
   },
   {
     "id": 590,
     "emoji": "🔊",
     "text": "Какой звук издает морской конек?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 134
   },
   {
     "id": 591,
     "emoji": "❤️",
     "text": "Мне нравятся быки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 135
   },
   {
     "id": 592,
     "emoji": "👀",
     "text": "Я видел быка.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 135
   },
   {
     "id": 593,
     "emoji": "🔊",
     "text": "Какой звук издает бык?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 135
   },
   {
     "id": 594,
     "emoji": "❤️",
     "text": "Мне нравятся пеликаны.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 136
   },
   {
     "id": 595,
     "emoji": "👀",
     "text": "Я видел пеликана.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 136
   },
   {
     "id": 596,
     "emoji": "🔊",
     "text": "Какой звук издает пеликан?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 136
   },
   {
     "id": 597,
     "emoji": "❤️",
     "text": "Мне нравятся бобры.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 137
   },
   {
     "id": 598,
     "emoji": "👀",
     "text": "Я видел бобра.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 137
   },
   {
     "id": 599,
     "emoji": "🔊",
     "text": "Какой звук издает бобр?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 137
   },
   {
     "id": 600,
     "emoji": "❤️",
     "text": "Мне нравятся золотые рыбки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 138
   },
   {
     "id": 601,
     "emoji": "👀",
     "text": "Я увидел золотую рыбку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 138
   },
   {
     "id": 602,
     "emoji": "🔊",
     "text": "Какой звук издает золотая рыбка?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 138
   },
   {
     "id": 603,
     "emoji": "🐠",
     "text": "Можем ли мы получить золотую рыбку в качестве питомца?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 138
   },
   {
     "id": 604,
     "emoji": "❤️",
     "text": "Мне нравится носорог.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 139
   },
   {
     "id": 605,
     "emoji": "👀",
     "text": "Я видел носорога.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 139
   },
   {
     "id": 606,
     "emoji": "🔊",
     "text": "Какой звук издает носорог?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 139
   },
   {
     "id": 607,
     "emoji": "❤️",
     "text": "Мне нравятся змеи.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 140
   },
   {
     "id": 608,
     "emoji": "👀",
     "text": "Я увидел змею.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 140
   },
   {
     "id": 609,
     "emoji": "🔊",
     "text": "Какой звук издает змея?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 140
   },
   {
     "id": 610,
     "emoji": "❤️",
     "text": "Мне нравятся львы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 141
   },
   {
     "id": 611,
     "emoji": "👀",
     "text": "Я видел льва.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 141
   },
   {
     "id": 612,
     "emoji": "🔊",
     "text": "Какой звук издает лев?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 141
   },
   {
     "id": 613,
     "emoji": "❤️",
     "text": "Мне нравятся кальмары.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 142
   },
   {
     "id": 614,
     "emoji": "👀",
     "text": "Я видел кальмара.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 142
   },
   {
     "id": 615,
     "emoji": "🔊",
     "text": "Какой звук издает кальмар?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 142
   },
   {
     "id": 616,
     "emoji": "❤️",
     "text": "Мне нравятся киты.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 143
   },
   {
     "id": 617,
     "emoji": "👀",
     "text": "Я видел кита.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 143
   },
   {
     "id": 618,
     "emoji": "🔊",
     "text": "Какой звук издает кит?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 143
   },
   {
     "id": 619,
     "emoji": "❤️",
     "text": "Мне нравятся жуки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 144
   },
   {
     "id": 620,
     "emoji": "👀",
     "text": "Я увидел жука.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 144
   },
   {
     "id": 621,
     "emoji": "🔊",
     "text": "Какой звук издает жук?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 144
   },
   {
     "id": 622,
     "emoji": "❤️",
     "text": "Мне нравятся дельфины.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 145
   },
   {
     "id": 623,
     "emoji": "👀",
     "text": "Я видел дельфина.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 145
   },
   {
     "id": 624,
     "emoji": "🔊",
     "text": "Какой звук издает дельфин?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 145
   },
   {
     "id": 625,
     "emoji": "❤️",
     "text": "Мне нравятся морские звезды.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 146
   },
   {
     "id": 626,
     "emoji": "👀",
     "text": "Я видел морскую звезду.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 146
   },
   {
     "id": 627,
     "emoji": "🔊",
     "text": "Какой звук издает морская звезда?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 146
   },
   {
     "id": 628,
     "emoji": "❤️",
     "text": "Мне нравятся попугаи.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 147
   },
   {
     "id": 629,
     "emoji": "👀",
     "text": "Я видел попугая.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 147
   },
   {
     "id": 630,
     "emoji": "🔊",
     "text": "Какой звук издает попугай?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 147
   },
   {
     "id": 631,
     "emoji": "❤️",
     "text": "Мне нравятся совы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 148
   },
   {
     "id": 632,
     "emoji": "👀",
     "text": "Я увидел сову.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 148
   },
   {
     "id": 633,
     "emoji": "🔊",
     "text": "Какой звук издает сова?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 148
   },
   {
     "id": 634,
     "emoji": "❤️",
     "text": "Мне нравятся овцы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 149
   },
   {
     "id": 635,
     "emoji": "👀",
     "text": "Я видел овцу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 149
   },
   {
     "id": 636,
     "emoji": "🔊",
     "text": "Какой шум издает овца?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 149
   },
   {
     "id": 637,
     "emoji": "🙋",
     "text": "Могу ли я использовать этот стол?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 150
   },
   {
     "id": 638,
     "emoji": "❓",
     "text": "Какой стол мой?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 150
   },
   {
     "id": 639,
     "emoji": "🥛",
     "text": "Я пролил на свой стол.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 150
   },
   {
     "id": 640,
     "emoji": "❌",
     "text": "Не царапайте свой стол.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 150
   },
   {
     "id": 641,
     "emoji": "🙋",
     "text": "Могу я сесть с тобой?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 151
   },
   {
     "id": 642,
     "emoji": "❓",
     "text": "Какой стул мой?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 151
   },
   {
     "id": 643,
     "emoji": "☝️",
     "text": "Этот стул занят?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 151
   },
   {
     "id": 644,
     "emoji": "🥛",
     "text": "Я пролил на свой стул.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 151
   },
   {
     "id": 645,
     "emoji": "📙",
     "text": "Учебник",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 152
   },
   {
     "id": 646,
     "emoji": "📒",
     "text": "Рабочая тетрадь",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 152
   },
   {
     "id": 647,
     "emoji": "📚",
     "text": "Читая книгу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 152
   },
   {
     "id": 648,
     "emoji": "😇",
     "text": "Могу я взять вашу книгу?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 152
   },
   {
     "id": 649,
     "emoji": "📃",
     "text": "На какой мы странице?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 152
   },
   {
     "id": 650,
     "emoji": "☝️",
     "text": "Перевернуть страницу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 152
   },
   {
     "id": 651,
     "emoji": "😱",
     "text": "Я потерял свою книгу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 152
   },
   {
     "id": 652,
     "emoji": "📝",
     "text": "Делать заметки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 153
   },
   {
     "id": 653,
     "emoji": "🖐️",
     "text": "Я делаю заметки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 153
   },
   {
     "id": 654,
     "emoji": "😱",
     "text": "Я потерял блокнот.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 153
   },
   {
     "id": 655,
     "emoji": "👜",
     "text": "Несу свой рюкзак.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 154
   },
   {
     "id": 656,
     "emoji": "💡",
     "text": "Кладу книги в рюкзак.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 154
   },
   {
     "id": 657,
     "emoji": "🙋",
     "text": "Мне нужен новый рюкзак.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 154
   },
   {
     "id": 658,
     "emoji": "🙏🏼",
     "text": "Спасибо, что нес мой рюкзак.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 154
   },
   {
     "id": 659,
     "emoji": "😱",
     "text": "Я потерял свой рюкзак.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 154
   },
   {
     "id": 660,
     "emoji": "⚖️",
     "text": "Мой рюкзак тяжелый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 154
   },
   {
     "id": 661,
     "emoji": "👀",
     "text": "Посмотрите на доску.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 155
   },
   {
     "id": 662,
     "emoji": "🧽",
     "text": "Очистка доски.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 155
   },
   {
     "id": 663,
     "emoji": "🧮",
     "text": "Решение задачи на доске.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 155
   },
   {
     "id": 664,
     "emoji": "📝",
     "text": "Делаем заметки на доске.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 155
   },
   {
     "id": 665,
     "emoji": "🖊️",
     "text": "Дай мне мел.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 155
   },
   {
     "id": 666,
     "emoji": "🤔",
     "text": "Я не понимаю эту часть.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 156
   },
   {
     "id": 667,
     "emoji": "🔁",
     "text": "Можешь повторить последнюю часть?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 156
   },
   {
     "id": 668,
     "emoji": "🚻",
     "text": "Могу я пойти в туалет?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 156
   },
   {
     "id": 669,
     "emoji": "❓",
     "text": "Какая тема?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 156
   },
   {
     "id": 670,
     "emoji": "😀",
     "text": "Мне нравится эта тема.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 156
   },
   {
     "id": 671,
     "emoji": "😔",
     "text": "Мне не нравится эта тема.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 156
   },
   {
     "id": 672,
     "emoji": "🙏🏼",
     "text": "Спасибо за урок.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 156
   },
   {
     "id": 673,
     "emoji": "⌛",
     "text": "Приезжает школьный автобус.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 157
   },
   {
     "id": 674,
     "emoji": "❓",
     "text": "Можно я сяду рядом с тобой?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 157
   },
   {
     "id": 675,
     "emoji": "🙏🏼",
     "text": "Спасибо водителю автобуса!",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 157
   },
   {
     "id": 676,
     "emoji": "⏱️",
     "text": "Школьный автобус опоздал.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 157
   },
   {
     "id": 677,
     "emoji": "✏️",
     "text": "Я пишу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 158
   },
   {
     "id": 678,
     "emoji": "🎓",
     "text": "Я учусь писать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 158
   },
   {
     "id": 679,
     "emoji": "🙋",
     "text": "Мне нужен новый карандаш.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 158
   },
   {
     "id": 680,
     "emoji": "😇",
     "text": "Могу ли я взять твой карандаш?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 158
   },
   {
     "id": 681,
     "emoji": "😱",
     "text": "Я потерял свой карандаш.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 158
   },
   {
     "id": 682,
     "emoji": "🧽",
     "text": "Я стираю.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 159
   },
   {
     "id": 683,
     "emoji": "🙋",
     "text": "Мне нужен новый ластик.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 159
   },
   {
     "id": 684,
     "emoji": "😇",
     "text": "Могу я одолжить твой ластик?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 159
   },
   {
     "id": 685,
     "emoji": "😱",
     "text": "Я потерял свой ластик.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 159
   },
   {
     "id": 686,
     "emoji": "📏",
     "text": "Я измеряю.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 160
   },
   {
     "id": 687,
     "emoji": "🙋",
     "text": "Мне нужен новый правитель.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 160
   },
   {
     "id": 688,
     "emoji": "😇",
     "text": "Могу я одолжить твою линейку?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 160
   },
   {
     "id": 689,
     "emoji": "😱",
     "text": "Я потерял правителя.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 160
   },
   {
     "id": 690,
     "emoji": "🔪",
     "text": "Я точу свой карандаш.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 161
   },
   {
     "id": 691,
     "emoji": "🙋",
     "text": "Мне нужна новая точилка.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 161
   },
   {
     "id": 692,
     "emoji": "😇",
     "text": "Могу я одолжить твою точилку?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 161
   },
   {
     "id": 693,
     "emoji": "😱",
     "text": "Я потерял свою точилку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 161
   },
   {
     "id": 694,
     "emoji": "❤️",
     "text": "Мне нравится математика.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 162
   },
   {
     "id": 695,
     "emoji": "🙋",
     "text": "Я хочу изучать математику.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 162
   },
   {
     "id": 696,
     "emoji": "❌",
     "text": "Я не люблю математику.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 162
   },
   {
     "id": 697,
     "emoji": "⌚",
     "text": "Когда урок математики?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 162
   },
   {
     "id": 698,
     "emoji": "☝️",
     "text": "Поможешь мне с домашним заданием по математике?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 162
   },
   {
     "id": 699,
     "emoji": "❤️",
     "text": "Мне нравится литература.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 163
   },
   {
     "id": 700,
     "emoji": "🙋",
     "text": "Я хочу изучать литературу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 163
   },
   {
     "id": 701,
     "emoji": "❌",
     "text": "Я не люблю литературу.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 163
   },
   {
     "id": 702,
     "emoji": "⌚",
     "text": "Когда урок литературы?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 163
   },
   {
     "id": 703,
     "emoji": "☝️",
     "text": "Поможешь мне с домашним заданием по литературе?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 163
   },
   {
     "id": 704,
     "emoji": "❤️",
     "text": "Мне нравится наука.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 164
   },
   {
     "id": 705,
     "emoji": "🙋",
     "text": "Я хочу заниматься наукой.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 164
   },
   {
     "id": 706,
     "emoji": "❌",
     "text": "Я не люблю науку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 164
   },
   {
     "id": 707,
     "emoji": "⌚",
     "text": "Когда урок естествознания?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 164
   },
   {
     "id": 708,
     "emoji": "☝️",
     "text": "Можешь помочь мне с домашним заданием по естествознанию?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 164
   },
   {
     "id": 709,
     "emoji": "❤️",
     "text": "Мне нравится арт-класс.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 165
   },
   {
     "id": 710,
     "emoji": "🙋",
     "text": "Я хочу практиковать художественные навыки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 165
   },
   {
     "id": 711,
     "emoji": "❌",
     "text": "Я не люблю уроки рисования.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 165
   },
   {
     "id": 712,
     "emoji": "⌚",
     "text": "Когда арт-класс?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 165
   },
   {
     "id": 713,
     "emoji": "☝️",
     "text": "Не могли бы вы помочь мне с домашним заданием по художественному классу?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 165
   },
   {
     "id": 714,
     "emoji": "❤️",
     "text": "Мне нравится музыкальный класс.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 166
   },
   {
     "id": 715,
     "emoji": "🙋",
     "text": "Я хочу практиковать музыкальные навыки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 166
   },
   {
     "id": 716,
     "emoji": "❌",
     "text": "Мне не нравится урок музыки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 166
   },
   {
     "id": 717,
     "emoji": "⌚",
     "text": "Когда урок музыки?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 166
   },
   {
     "id": 718,
     "emoji": "☝️",
     "text": "Не могли бы вы помочь мне с домашним заданием в музыкальном классе?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 166
   },
   {
     "id": 719,
     "emoji": "❤️",
     "text": "Мне нравится география.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 167
   },
   {
     "id": 720,
     "emoji": "🙋",
     "text": "Я хочу изучать географию.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 167
   },
   {
     "id": 721,
     "emoji": "❌",
     "text": "Я не люблю географию.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 167
   },
   {
     "id": 722,
     "emoji": "⌚",
     "text": "Когда география?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 167
   },
   {
     "id": 723,
     "emoji": "☝️",
     "text": "Поможешь мне с домашним заданием по географии?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 167
   },
   {
     "id": 724,
     "emoji": "🌎",
     "text": "Я использую телескоп.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 168
   },
   {
     "id": 725,
     "emoji": "🙋",
     "text": "Я хочу использовать телескоп.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 168
   },
   {
     "id": 726,
     "emoji": "🌟",
     "text": "Я хочу смотреть на звезды.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 168
   },
   {
     "id": 727,
     "emoji": "👌",
     "text": "Я использую клей.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 169
   },
   {
     "id": 728,
     "emoji": "🙋",
     "text": "Мне нужен новый клей.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 169
   },
   {
     "id": 729,
     "emoji": "😇",
     "text": "Могу я одолжить твой клей?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 169
   },
   {
     "id": 730,
     "emoji": "😱",
     "text": "Я потерял клей.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 169
   },
   {
     "id": 731,
     "emoji": "❤️",
     "text": "Я люблю ходить",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 170
   },
   {
     "id": 732,
     "emoji": "❌",
     "text": "я не люблю ходить",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 170
   },
   {
     "id": 733,
     "emoji": "🙋",
     "text": "Хотите прогуляться вместе?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 170
   },
   {
     "id": 734,
     "emoji": "❤️",
     "text": "Мне нравится бегать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 171
   },
   {
     "id": 735,
     "emoji": "❌",
     "text": "Я не люблю бегать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 171
   },
   {
     "id": 736,
     "emoji": "🙋",
     "text": "Хочешь побегать?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 171
   },
   {
     "id": 737,
     "emoji": "❤️",
     "text": "Мне нравится говорить.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 172
   },
   {
     "id": 738,
     "emoji": "❌",
     "text": "Я не люблю говорить.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 172
   },
   {
     "id": 739,
     "emoji": "🙋",
     "text": "Ты хочешь поговорить со мной?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 172
   },
   {
     "id": 740,
     "emoji": "❤️",
     "text": "Мне нравится читать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 173
   },
   {
     "id": 741,
     "emoji": "❌",
     "text": "Я не люблю читать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 173
   },
   {
     "id": 742,
     "emoji": "🙋",
     "text": "Хочешь читать вместе?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 173
   },
   {
     "id": 743,
     "emoji": "❤️",
     "text": "Я люблю играть в футбол.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 174
   },
   {
     "id": 744,
     "emoji": "❌",
     "text": "Я не люблю играть в футбол.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 174
   },
   {
     "id": 745,
     "emoji": "🙋",
     "text": "Вы хотите играть в футбол?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 174
   },
   {
     "id": 746,
     "emoji": "❤️",
     "text": "Я люблю играть в баскетбол.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 175
   },
   {
     "id": 747,
     "emoji": "❌",
     "text": "Я не люблю играть в баскетбол.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 175
   },
   {
     "id": 748,
     "emoji": "🙋",
     "text": "Вы хотите играть в баскетбол?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 175
   },
   {
     "id": 749,
     "emoji": "❤️",
     "text": "Я люблю плавание.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 176
   },
   {
     "id": 750,
     "emoji": "❌",
     "text": "Я не люблю плавать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 176
   },
   {
     "id": 751,
     "emoji": "🙋",
     "text": "Вы хотите пойти на плавание?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 176
   },
   {
     "id": 752,
     "emoji": "❤️",
     "text": "Мне нравится живопись.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 177
   },
   {
     "id": 753,
     "emoji": "❌",
     "text": "Я не люблю рисовать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 177
   },
   {
     "id": 754,
     "emoji": "🙋",
     "text": "Хотите рисовать вместе?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 177
   },
   {
     "id": 755,
     "emoji": "❤️",
     "text": "Мне нравится рисовать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 178
   },
   {
     "id": 756,
     "emoji": "❌",
     "text": "Я не люблю рисовать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 178
   },
   {
     "id": 757,
     "emoji": "🙋",
     "text": "Хотите рисовать вместе?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 178
   },
   {
     "id": 758,
     "emoji": "❤️",
     "text": "Я люблю ездить на велосипеде.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 179
   },
   {
     "id": 759,
     "emoji": "❌",
     "text": "Я не люблю велосипед.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 179
   },
   {
     "id": 760,
     "emoji": "🙋",
     "text": "Вы хотите покататься на велосипеде?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 179
   },
   {
     "id": 761,
     "emoji": "❤️",
     "text": "Мне нравится кататься на коньках.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 180
   },
   {
     "id": 762,
     "emoji": "❌",
     "text": "Я не люблю кататься на коньках.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 180
   },
   {
     "id": 763,
     "emoji": "🙋",
     "text": "Хочешь покататься на коньках?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 180
   },
   {
     "id": 764,
     "emoji": "❤️",
     "text": "Мне нравится осмотр достопримечательностей.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 181
   },
   {
     "id": 765,
     "emoji": "❌",
     "text": "Я не люблю осмотр достопримечательностей.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 181
   },
   {
     "id": 766,
     "emoji": "🙋",
     "text": "Вы хотите отправиться на экскурсию?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 181
   },
   {
     "id": 767,
     "emoji": "❤️",
     "text": "Мне нравится играть в видеоигры.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 182
   },
   {
     "id": 768,
     "emoji": "❌",
     "text": "Я не люблю играть в видеоигры.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 182
   },
   {
     "id": 769,
     "emoji": "🙋",
     "text": "Вы хотите играть в игры?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 182
   },
   {
     "id": 770,
     "emoji": "❤️",
     "text": "Мне нравится убирать свою комнату.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 183
   },
   {
     "id": 771,
     "emoji": "❌",
     "text": "Я не люблю убираться в своей комнате.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 183
   },
   {
     "id": 772,
     "emoji": "🙋",
     "text": "Ты поможешь мне убрать мою комнату?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 183
   },
   {
     "id": 773,
     "emoji": "❤️",
     "text": "Мне нравятся игрушки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 184
   },
   {
     "id": 774,
     "emoji": "❌",
     "text": "Я не люблю игрушки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 184
   },
   {
     "id": 775,
     "emoji": "🙋",
     "text": "Хочешь поиграть с моими игрушками?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 184
   },
   {
     "id": 776,
     "emoji": "❤️",
     "text": "Мне нравится решать головоломки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 185
   },
   {
     "id": 777,
     "emoji": "❌",
     "text": "Я не люблю решать головоломки.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 185
   },
   {
     "id": 778,
     "emoji": "🙋",
     "text": "Хочешь решать загадки со мной?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 185
   },
   {
     "id": 779,
     "emoji": "❤️",
     "text": "Мне нравится читать комиксы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 186
   },
   {
     "id": 780,
     "emoji": "❌",
     "text": "Я не люблю читать комиксы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 186
   },
   {
     "id": 781,
     "emoji": "🙋",
     "text": "Хочешь читать комиксы?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 186
   },
   {
     "id": 782,
     "emoji": "❤️",
     "text": "Мне нравится играть в шахматы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 187
   },
   {
     "id": 783,
     "emoji": "❌",
     "text": "Я не люблю играть в шахматы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 187
   },
   {
     "id": 784,
     "emoji": "🙋",
     "text": "Хочешь сыграть со мной в шахматы?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 187
   },
   {
     "id": 785,
     "emoji": "❤️",
     "text": "Мне нравится переписываться.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 188
   },
   {
     "id": 786,
     "emoji": "❌",
     "text": "Я не люблю текстовые сообщения.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 188
   },
   {
     "id": 787,
     "emoji": "❤️",
     "text": "Мне нравится вязать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 189
   },
   {
     "id": 788,
     "emoji": "❌",
     "text": "Я не люблю вязать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 189
   },
   {
     "id": 789,
     "emoji": "🙋",
     "text": "Я хочу научиться вязать.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 189
   },
   {
     "id": 790,
     "emoji": "❤️",
     "text": "Мне нравится боулинг.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 190
   },
   {
     "id": 791,
     "emoji": "❌",
     "text": "Я не люблю боулинг.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 190
   },
   {
     "id": 792,
     "emoji": "🙋",
     "text": "Хочешь поиграть со мной в боулинг?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 190
   },
   {
     "id": 793,
     "emoji": "❤️",
     "text": "Мне нравится смотреть телевизор.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 191
   },
   {
     "id": 794,
     "emoji": "❌",
     "text": "Я не люблю смотреть телевизор.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 191
   },
   {
     "id": 795,
     "emoji": "🙋",
     "text": "Хочешь смотреть телевизор?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 191
   },
   {
     "id": 796,
     "emoji": "❤️",
     "text": "Мне нравится рыбалка.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 192
   },
   {
     "id": 797,
     "emoji": "❌",
     "text": "Я не люблю рыбалку.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 192
   },
   {
     "id": 798,
     "emoji": "🙋",
     "text": "Хочешь пойти на рыбалку?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 192
   },
   {
     "id": 799,
     "emoji": "❤️",
     "text": "Мне нравится заниматься спортом.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 193
   },
   {
     "id": 800,
     "emoji": "❌",
     "text": "Я не люблю заниматься спортом.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 193
   },
   {
     "id": 801,
     "emoji": "🙋",
     "text": "Хочешь заниматься со мной?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 193
   },
   {
     "id": 802,
     "emoji": "❤️",
     "text": "Мне нравится играть в теннис.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 194
   },
   {
     "id": 803,
     "emoji": "❌",
     "text": "Я не люблю играть в теннис.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 194
   },
   {
     "id": 804,
     "emoji": "🙋",
     "text": "Хочешь поиграть со мной в теннис?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 194
   },
   {
     "id": 805,
     "emoji": "👉",
     "text": "Это в форме круга.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 195
   },
   {
     "id": 806,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать круг?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 195
   },
   {
     "id": 807,
     "emoji": "👉",
     "text": "Это треугольная форма.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 196
   },
   {
     "id": 808,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать треугольник?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 196
   },
   {
     "id": 809,
     "emoji": "👉",
     "text": "Это квадратной формы.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 197
   },
   {
     "id": 810,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать квадрат?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 197
   },
   {
     "id": 811,
     "emoji": "👉",
     "text": "Это форма прямоугольника.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 198
   },
   {
     "id": 812,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать прямоугольник?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 198
   },
   {
     "id": 813,
     "emoji": "👉",
     "text": "Это в форме звезды.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 199
   },
   {
     "id": 814,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать звезду?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 199
   },
   {
     "id": 815,
     "emoji": "👉",
     "text": "Это в форме пятиугольника.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 200
   },
   {
     "id": 816,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать пятиугольник?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 200
   },
   {
     "id": 817,
     "emoji": "👉",
     "text": "Это форма шестиугольника.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 201
   },
   {
     "id": 818,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать шестиугольник?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 201
   },
   {
     "id": 819,
     "emoji": "👉",
     "text": "Это в форме креста.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 202
   },
   {
     "id": 820,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать крест?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 202
   },
   {
     "id": 821,
     "emoji": "👉",
     "text": "Это форма эллипса.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 203
   },
   {
     "id": 822,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать эллипс?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 203
   },
   {
     "id": 823,
     "emoji": "👉",
     "text": "Это стреловидная форма.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 204
   },
   {
     "id": 824,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать стрелу?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 204
   },
   {
     "id": 825,
     "emoji": "👉",
     "text": "Это в форме полумесяца.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 205
   },
   {
     "id": 826,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать полумесяц?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 205
   },
   {
     "id": 827,
     "emoji": "👉",
     "text": "Это в форме сердца.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 206
   },
   {
     "id": 828,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать сердце?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 206
   },
   {
     "id": 829,
     "emoji": "👉",
     "text": "Это в форме ромба.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 207
   },
   {
     "id": 830,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать алмаз?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 207
   },
   {
     "id": 831,
     "emoji": "👉",
     "text": "Это в форме цилиндра.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 208
   },
   {
     "id": 832,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать цилиндр?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 208
   },
   {
     "id": 833,
     "emoji": "👉",
     "text": "Это в форме кольца.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 209
   },
   {
     "id": 834,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать кольцо?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 209
   },
   {
     "id": 835,
     "emoji": "👉",
     "text": "Это форма полукруга.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 210
   },
   {
     "id": 836,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать полукруг?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 210
   },
   {
     "id": 837,
     "emoji": "👉",
     "text": "Это форма трапеции.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 211
   },
   {
     "id": 838,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать трапецию?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 211
   },
   {
     "id": 839,
     "emoji": "👉",
     "text": "Это форма куба.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 212
   },
   {
     "id": 840,
     "emoji": "❓",
     "text": "Можешь научить меня рисовать куб?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 212
   },
   {
     "id": 841,
     "emoji": "❤️",
     "text": "Мне нравятся карандаши.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 213
   },
   {
     "id": 842,
     "emoji": "🙋",
     "text": "Можешь дать мне карандаши?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 213
   },
   {
     "id": 843,
     "emoji": "🖍️",
     "text": "Я хочу рисовать мелками.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 213
   },
   {
     "id": 844,
     "emoji": "👉",
     "text": "Оно красное.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 214
   },
   {
     "id": 845,
     "emoji": "💜",
     "text": "Мой любимый цвет - красный.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 214
   },
   {
     "id": 846,
     "emoji": "🙋",
     "text": "Ты можешь дать мне красную краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 214
   },
   {
     "id": 847,
     "emoji": "👉",
     "text": "Оно голубое.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 215
   },
   {
     "id": 848,
     "emoji": "💜",
     "text": "Мой любимый цвет - голубой.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 215
   },
   {
     "id": 849,
     "emoji": "🙋",
     "text": "Можешь дать мне синюю краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 215
   },
   {
     "id": 850,
     "emoji": "👉",
     "text": "Это оранжевый цвет.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 216
   },
   {
     "id": 851,
     "emoji": "💜",
     "text": "Мой любимый цвет оранжевый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 216
   },
   {
     "id": 852,
     "emoji": "🙋",
     "text": "Можешь дать мне оранжевую краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 216
   },
   {
     "id": 853,
     "emoji": "👉",
     "text": "Это зеленое.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 217
   },
   {
     "id": 854,
     "emoji": "💜",
     "text": "Мой любимый цвет - зеленый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 217
   },
   {
     "id": 855,
     "emoji": "🙋",
     "text": "Можешь дать мне зеленую краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 217
   },
   {
     "id": 856,
     "emoji": "👉",
     "text": "Это желтое.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 218
   },
   {
     "id": 857,
     "emoji": "💜",
     "text": "Мой любимый цвет желтый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 218
   },
   {
     "id": 858,
     "emoji": "🙋",
     "text": "Можешь дать мне желтую краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 218
   },
   {
     "id": 859,
     "emoji": "👉",
     "text": "Это фиолетовый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 219
   },
   {
     "id": 860,
     "emoji": "💜",
     "text": "Мой любимый цвет - фиолетовый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 219
   },
   {
     "id": 861,
     "emoji": "🙋",
     "text": "Можешь дать мне фиолетовую краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 219
   },
   {
     "id": 862,
     "emoji": "👉",
     "text": "Это розовый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 220
   },
   {
     "id": 863,
     "emoji": "💜",
     "text": "Мой любимый цвет розовый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 220
   },
   {
     "id": 864,
     "emoji": "🙋",
     "text": "Можешь дать мне розовую краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 220
   },
   {
     "id": 865,
     "emoji": "👉",
     "text": "Он коричневый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 221
   },
   {
     "id": 866,
     "emoji": "💜",
     "text": "Мой любимый цвет коричневый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 221
   },
   {
     "id": 867,
     "emoji": "🙋",
     "text": "Можешь дать мне коричневую краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 221
   },
   {
     "id": 868,
     "emoji": "👉",
     "text": "Оно черное.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 222
   },
   {
     "id": 869,
     "emoji": "💜",
     "text": "Мой любимый цвет черный.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 222
   },
   {
     "id": 870,
     "emoji": "🙋",
     "text": "Ты можешь дать мне черную краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 222
   },
   {
     "id": 871,
     "emoji": "👉",
     "text": "Он белый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 223
   },
   {
     "id": 872,
     "emoji": "💜",
     "text": "Мой любимый цвет белый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 223
   },
   {
     "id": 873,
     "emoji": "🙋",
     "text": "Можешь дать мне белую краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 223
   },
   {
     "id": 874,
     "emoji": "👉",
     "text": "Это серый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 224
   },
   {
     "id": 875,
     "emoji": "💜",
     "text": "Мой любимый цвет серый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 224
   },
   {
     "id": 876,
     "emoji": "🙋",
     "text": "Можешь дать мне серую краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 224
   },
   {
     "id": 877,
     "emoji": "👉",
     "text": "Он прозрачный.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 225
   },
   {
     "id": 878,
     "emoji": "👀",
     "text": "Я вижу за прозрачным цветом.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 225
   },
   {
     "id": 879,
     "emoji": "🙋",
     "text": "Поможешь мне стереть?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 225
   },
   {
     "id": 880,
     "emoji": "👉",
     "text": "Это голубой.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 226
   },
   {
     "id": 881,
     "emoji": "💜",
     "text": "Мой любимый цвет голубой.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 226
   },
   {
     "id": 882,
     "emoji": "🙋",
     "text": "Не могли бы вы дать мне голубую краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 226
   },
   {
     "id": 883,
     "emoji": "👉",
     "text": "Это бирюза.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 227
   },
   {
     "id": 884,
     "emoji": "💜",
     "text": "Мой любимый цвет бирюзовый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 227
   },
   {
     "id": 885,
     "emoji": "🙋",
     "text": "Можешь дать мне бирюзовую краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 227
   },
   {
     "id": 886,
     "emoji": "👉",
     "text": "Это известь.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 227
   },
   {
     "id": 887,
     "emoji": "💜",
     "text": "Мой любимый цвет - салатовый.",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 228
   },
   {
     "id": 888,
     "emoji": "🙋",
     "text": "Можешь дать мне известковую краску?",
-    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3"
+    "sound": "http://localhost:3333/files/audio/bb4290dac2758df90d94aab266e5ba32.mp3",
+    "phraseBankId": 228
   }
 ]
