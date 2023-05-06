@@ -57,27 +57,26 @@ model Category {
 }
 
 model ExerciseCategory {
-  id    Int    @id @default(autoincrement())
-  image String
-  text  String
-
-  exercise ExerciseSubCategory[]
+  id                  Int                   @id @default(autoincrement())
+  image               String
+  text                String
+  exerciseSubCategory ExerciseSubCategory[]
 }
 
 model ExerciseSubCategory {
-  id                 Int               @id @default(autoincrement())
+  id                 Int              @id @default(autoincrement())
   text               String
+  exerciseCategoryId Int
   exercise           Exercise?
-  exerciseCategory   ExerciseCategory? @relation(fields: [exerciseCategoryId], references: [id])
-  exerciseCategoryId Int?
+  exerciseCategory   ExerciseCategory @relation(fields: [exerciseCategoryId], references: [id])
 }
 
 model Exercise {
-  id                    Int                 @id @default(autoincrement())
+  id                    Int                  @id @default(autoincrement())
   text                  String
   image                 String
-  exerciseSubCategory   ExerciseSubCategory @relation(fields: [exerciseSubCategoryId], references: [id])
-  exerciseSubCategoryId Int                 @unique
+  exerciseSubCategory   ExerciseSubCategory? @relation(fields: [exerciseSubCategoryId], references: [id])
+  exerciseSubCategoryId Int?                 @unique
 }
 
 //logopeds

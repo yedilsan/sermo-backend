@@ -1141,13 +1141,13 @@
   },
   {
     "image": "http://localhost:3333/files/images/tv.png",
-    "text": "Смотря телевизор",
+    "text": "Телевизор",
     "categoryId": 8,
     "id": 191
   },
   {
     "image": "http://localhost:3333/files/images/fishing.png",
-    "text": "Рыбная ловля",
+    "text": "Рыбалка",
     "categoryId": 8,
     "id": 192
   },
