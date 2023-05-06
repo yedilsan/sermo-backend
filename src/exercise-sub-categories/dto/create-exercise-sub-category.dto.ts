@@ -1,15 +1,11 @@
 import { IsNotEmpty, IsNumber, IsString } from 'class-validator';
 
-export class CreateExerciseDto {
+export class CreateExerciseSubCategoryDto {
   @IsString()
   @IsNotEmpty()
   text: string;
 
-  @IsString()
   @IsNotEmpty()
-  image: string;
-
   @IsNumber()
-  @IsNotEmpty()
-  exerciseSubCategoryId: number;
+  exerciseCategoryId: number;
 }

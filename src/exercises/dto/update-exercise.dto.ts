@@ -1,13 +1,17 @@
 import { PartialType } from '@nestjs/mapped-types';
 import { CreateExerciseDto } from './create-exercise.dto';
-import { IsNotEmpty, IsString } from 'class-validator';
+import { IsNotEmpty, IsNumber, IsString } from 'class-validator';
 
 export class UpdateExerciseDto extends PartialType(CreateExerciseDto) {
   @IsString()
   @IsNotEmpty()
-  sound: string;
+  text: string;
 
   @IsString()
   @IsNotEmpty()
-  text: string;
+  image: string;
+
+  @IsNumber()
+  @IsNotEmpty()
+  exerciseSubCategoryId: number;
 }
