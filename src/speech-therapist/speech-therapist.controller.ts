@@ -1,11 +1,21 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  Post,
+  Body,
+  Patch,
+  Param,
+  Delete,
+} from '@nestjs/common';
 import { SpeechTherapistService } from './speech-therapist.service';
 import { CreateSpeechTherapistDto } from './dto/create-speech-therapist.dto';
 import { UpdateSpeechTherapistDto } from './dto/update-speech-therapist.dto';
 
 @Controller('speech-therapist')
 export class SpeechTherapistController {
-  constructor(private readonly speechTherapistService: SpeechTherapistService) {}
+  constructor(
+    private readonly speechTherapistService: SpeechTherapistService,
+  ) {}
 
   @Post()
   create(@Body() createSpeechTherapistDto: CreateSpeechTherapistDto) {
@@ -23,7 +33,10 @@ export class SpeechTherapistController {
   }
 
   @Patch(':id')
-  update(@Param('id') id: string, @Body() updateSpeechTherapistDto: UpdateSpeechTherapistDto) {
+  update(
+    @Param('id') id: string,
+    @Body() updateSpeechTherapistDto: UpdateSpeechTherapistDto,
+  ) {
     return this.speechTherapistService.update(+id, updateSpeechTherapistDto);
   }
 
