@@ -1,6 +1,6 @@
 import { PartialType } from '@nestjs/mapped-types';
 import { CreatePhraseDto } from './create-phrase.dto';
-import { IsNotEmpty, IsNumber, IsOptional, IsString } from 'class-validator';
+import { IsNotEmpty, IsOptional, IsString } from 'class-validator';
 
 export class UpdatePhraseDto extends PartialType(CreatePhraseDto) {
   @IsString()
@@ -11,11 +11,7 @@ export class UpdatePhraseDto extends PartialType(CreatePhraseDto) {
   @IsNotEmpty()
   text: string;
 
-  @IsString()
-  @IsNotEmpty()
-  sound: string;
-
   @IsOptional()
-  @IsNumber()
-  phraseBankId: number;
+  @IsString()
+  phraseBankId: string;
 }

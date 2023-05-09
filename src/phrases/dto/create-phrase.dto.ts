@@ -1,4 +1,4 @@
-import { IsNotEmpty, IsNumber, IsOptional, IsString } from 'class-validator';
+import { IsNotEmpty, IsOptional, IsString } from 'class-validator';
 
 export class CreatePhraseDto {
   @IsString()
@@ -9,11 +9,7 @@ export class CreatePhraseDto {
   @IsNotEmpty()
   text: string;
 
-  @IsString()
-  @IsNotEmpty()
-  sound: string;
-
   @IsOptional()
-  @IsNumber()
-  phraseBankId: number;
+  @IsString()
+  phraseBankId: string;
 }
