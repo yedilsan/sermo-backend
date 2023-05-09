@@ -2,1369 +2,1141 @@
   {
     "image": "http://localhost:3333/files/images/me.png",
     "text": "Мне",
-    "categoryId": 2,
-    "id": 1
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/hello.png",
     "text": "Привет",
-    "categoryId": 2,
-    "id": 2
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/help.png",
     "text": "Помощь",
-    "categoryId": 2,
-    "id": 3
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/yes.png",
     "text": "Да",
-    "categoryId": 2,
-    "id": 4
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/no.png",
     "text": "Нет",
-    "categoryId": 2,
-    "id": 5
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/toilet.png",
     "text": "Туалет",
-    "categoryId": 2,
-    "id": 6
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/what.png",
     "text": "что",
-    "categoryId": 2,
-    "id": 7
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/why.png",
     "text": "Почему",
-    "categoryId": 2,
-    "id": 8
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/sleep.png",
     "text": "Спать",
-    "categoryId": 2,
-    "id": 9
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/bath.png",
     "text": "Ванна",
-    "categoryId": 2,
-    "id": 10
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/listen.png",
     "text": "Слушать",
-    "categoryId": 2,
-    "id": 11
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/morning.png",
     "text": "Утро",
-    "categoryId": 2,
-    "id": 12
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/night.png",
     "text": "Ночь",
-    "categoryId": 2,
-    "id": 13
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/look.png",
     "text": "Посмотрите",
-    "categoryId": 2,
-    "id": 14
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/talk.png",
     "text": "Разговаривать",
-    "categoryId": 2,
-    "id": 15
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/play.png",
     "text": "Играть в",
-    "categoryId": 2,
-    "id": 16
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/dvor.png",
     "text": "За пределами",
-    "categoryId": 2,
-    "id": 17
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/house.png",
     "text": "Дом",
-    "categoryId": 2,
-    "id": 18
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/pain.png",
     "text": "Повредить",
-    "categoryId": 2,
-    "id": 19
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/pron.png",
     "text": "Местоимения",
-    "categoryId": 2,
-    "id": 20
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/unverbal.png",
     "text": "Невербальный",
-    "categoryId": 2,
-    "id": 21
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/again.png",
     "text": "Очередной раз",
-    "categoryId": 2,
-    "id": 22
+    "categoryId": 2
   },
   {
     "image": "http://localhost:3333/files/images/mom.png",
     "text": "Мама",
-    "categoryId": 3,
-    "id": 23
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/dad.png",
     "text": "Папа",
-    "categoryId": 3,
-    "id": 24
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/family.png",
     "text": "Родители",
-    "categoryId": 3,
-    "id": 25
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/grandma.png",
     "text": "Бабушки и дедушки",
-    "categoryId": 3,
-    "id": 26
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/brother.png",
     "text": "Брат",
-    "categoryId": 3,
-    "id": 27
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/sister.png",
     "text": "Сестра",
-    "categoryId": 3,
-    "id": 28
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/men.png",
     "text": "Дядя",
-    "categoryId": 3,
-    "id": 29
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/women.png",
     "text": "Тетя",
-    "categoryId": 3,
-    "id": 30
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/teacher.png",
     "text": "Учитель",
-    "categoryId": 3,
-    "id": 31
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/terapevt.png",
     "text": "Терапевт",
-    "categoryId": 3,
-    "id": 32
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/doctor.png",
     "text": "Врач",
-    "categoryId": 3,
-    "id": 33
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/frends.png",
     "text": "Друзья",
-    "categoryId": 3,
-    "id": 34
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/sister.png",
     "text": "Подруга",
-    "categoryId": 3,
-    "id": 35
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/brother.png",
     "text": "Дружок",
-    "categoryId": 3,
-    "id": 36
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/men.png",
     "text": "Кузены",
-    "categoryId": 3,
-    "id": 37
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/grandma.png",
     "text": "Бабушка",
-    "categoryId": 3,
-    "id": 38
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/grandfa.png",
     "text": "Дедушка",
-    "categoryId": 3,
-    "id": 39
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/men.png",
     "text": "Отчим",
-    "categoryId": 3,
-    "id": 40
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/women.png",
     "text": "Мачеха",
-    "categoryId": 3,
-    "id": 41
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/women.png",
     "text": "Сводная сестра",
-    "categoryId": 3,
-    "id": 42
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/men.png",
     "text": "Сводный брат",
-    "categoryId": 3,
-    "id": 43
+    "categoryId": 3
   },
   {
     "image": "http://localhost:3333/files/images/emotion1.png",
     "text": "Счастливый",
-    "categoryId": 4,
-    "id": 44
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion2.png",
     "text": "Грустный",
-    "categoryId": 4,
-    "id": 45
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion3.png4",
     "text": "Измученный",
-    "categoryId": 4,
-    "id": 46
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion4.png",
     "text": "Расслабленный",
-    "categoryId": 4,
-    "id": 47
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion5.png",
     "text": "Влюблена",
-    "categoryId": 4,
-    "id": 48
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion6.png",
     "text": "Стресс",
-    "categoryId": 4,
-    "id": 49
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion7.png",
     "text": "Благодарен",
-    "categoryId": 4,
-    "id": 50
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion8.png",
     "text": "Смущенный",
-    "categoryId": 4,
-    "id": 51
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion9.png",
     "text": "Радостный",
-    "categoryId": 4,
-    "id": 52
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion10.png",
     "text": "Злой",
-    "categoryId": 4,
-    "id": 53
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion11.png",
     "text": "Умная",
-    "categoryId": 4,
-    "id": 54
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion12.png",
     "text": "Боюсь",
-    "categoryId": 4,
-    "id": 55
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion13.png",
     "text": "Стыдящийся",
-    "categoryId": 4,
-    "id": 56
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion14.png",
     "text": "Потрясенный",
-    "categoryId": 4,
-    "id": 57
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion15.png",
     "text": "Больной",
-    "categoryId": 4,
-    "id": 58
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion16.png",
     "text": "Расстроенный",
-    "categoryId": 4,
-    "id": 59
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion17.png",
     "text": "Взволнованный",
-    "categoryId": 4,
-    "id": 60
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion18.png",
     "text": "Тошнотворный",
-    "categoryId": 4,
-    "id": 61
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/emotion19.png",
     "text": "Взволнованный",
-    "categoryId": 4,
-    "id": 62
+    "categoryId": 4
   },
   {
     "image": "http://localhost:3333/files/images/.png",
     "text": "Голодный",
-    "categoryId": 5,
-    "id": 63
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/men.png",
     "text": "Испытывающий жажду",
-    "categoryId": 5,
-    "id": 64
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/.png",
     "text": "Столовые приборы",
-    "categoryId": 5,
-    "id": 65
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/.png",
     "text": "Полный",
-    "categoryId": 5,
-    "id": 66
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/apple.png",
     "text": "Яблоко",
-    "categoryId": 5,
-    "id": 67
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/carrot.png",
     "text": "Морковь",
-    "categoryId": 5,
-    "id": 68
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/beans.png",
     "text": "Бобы",
-    "categoryId": 5,
-    "id": 69
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/chiken.png",
     "text": "Курица",
-    "categoryId": 5,
-    "id": 70
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/chocolate.png",
     "text": "Шоколад",
-    "categoryId": 5,
-    "id": 71
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/milk.png",
     "text": "Молоко",
-    "categoryId": 5,
-    "id": 72
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/sandwich.png",
     "text": "Сэндвич",
-    "categoryId": 5,
-    "id": 73
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/steak.png",
     "text": "Стейк",
-    "categoryId": 5,
-    "id": 74
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/banana.png",
     "text": "Банан",
-    "categoryId": 5,
-    "id": 75
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/cake.png",
     "text": "Пирог",
-    "categoryId": 5,
-    "id": 76
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/egg.png",
     "text": "Яйцо",
-    "categoryId": 5,
-    "id": 77
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/spaghetti.png",
     "text": "Лапша",
-    "categoryId": 5,
-    "id": 78
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/salt.png",
     "text": "Поваренная соль",
-    "categoryId": 5,
-    "id": 79
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/pepper.png",
     "text": "Специи",
-    "categoryId": 5,
-    "id": 80
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/pizza.png",
     "text": "Пицца",
-    "categoryId": 5,
-    "id": 81
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/cheese.png",
     "text": "Сыр",
-    "categoryId": 5,
-    "id": 82
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/fish.png",
     "text": "Рыбы",
-    "categoryId": 5,
-    "id": 83
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/icecream.png",
     "text": "Мороженое",
-    "categoryId": 5,
-    "id": 84
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/tea.png",
     "text": "Чай",
-    "categoryId": 5,
-    "id": 85
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/coffee.png",
     "text": "Кофе",
-    "categoryId": 5,
-    "id": 86
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/tomato.png",
     "text": "Помидор",
-    "categoryId": 5,
-    "id": 87
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/porridge.png",
     "text": "Зерновой",
-    "categoryId": 5,
-    "id": 88
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/burger.png",
     "text": "Бургер",
-    "categoryId": 5,
-    "id": 89
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/french-fries.png",
     "text": "Картошка фри",
-    "categoryId": 5,
-    "id": 90
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/spinach.png",
     "text": "Шпинат",
-    "categoryId": 5,
-    "id": 91
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/rice.png",
     "text": "Рис",
-    "categoryId": 5,
-    "id": 92
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/bread.png",
     "text": "Хлеб",
-    "categoryId": 5,
-    "id": 93
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/pasta.png",
     "text": "Макаронные изделия",
-    "categoryId": 5,
-    "id": 94
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/sauce.png",
     "text": "Соус",
-    "categoryId": 5,
-    "id": 95
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/kebab.png",
     "text": "Кебаб",
-    "categoryId": 5,
-    "id": 96
+    "categoryId": 5
   },
   {
     "image": "http://localhost:3333/files/images/cat.png",
     "text": "Кошка",
-    "categoryId": 6,
-    "id": 97
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/dog.png",
     "text": "Собака",
-    "categoryId": 6,
-    "id": 98
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/animal-fish.png",
     "text": "Рыбы",
-    "categoryId": 6,
-    "id": 99
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/rabbit.png",
     "text": "Кролик",
-    "categoryId": 6,
-    "id": 100
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/butterfly.png",
     "text": "Бабочка",
-    "categoryId": 6,
-    "id": 101
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/kangaroo.png",
     "text": "Кенгуру",
-    "categoryId": 6,
-    "id": 102
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/turtle.png",
     "text": "Черепаха",
-    "categoryId": 6,
-    "id": 103
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/giraffe.png",
     "text": "Жираф",
-    "categoryId": 6,
-    "id": 104
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/frog.png",
     "text": "Лягушка",
-    "categoryId": 6,
-    "id": 105
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/swan.png",
     "text": "Лебедь",
-    "categoryId": 6,
-    "id": 106
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/spider.png",
     "text": "Паук",
-    "categoryId": 6,
-    "id": 107
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/cow.png",
     "text": "Корова",
-    "categoryId": 6,
-    "id": 108
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/duck.png",
     "text": "Утка",
-    "categoryId": 6,
-    "id": 109
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/horse.png",
     "text": "Лошадь",
-    "categoryId": 6,
-    "id": 110
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/chicken.png",
     "text": "Курица",
-    "categoryId": 6,
-    "id": 111
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/bee.png",
     "text": "Пчела",
-    "categoryId": 6,
-    "id": 112
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/pig.png",
     "text": "Свинья",
-    "categoryId": 6,
-    "id": 113
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/dove.png",
     "text": "Голубь",
-    "categoryId": 6,
-    "id": 114
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/crab.png",
     "text": "Краб",
-    "categoryId": 6,
-    "id": 115
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/penguin.png",
     "text": "Пингвин",
-    "categoryId": 6,
-    "id": 116
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/elephant.png",
     "text": "Слон",
-    "categoryId": 6,
-    "id": 117
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/zebra.png",
     "text": "Зебра",
-    "categoryId": 6,
-    "id": 118
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/panda.png",
     "text": "Панда",
-    "categoryId": 6,
-    "id": 119
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/monkey.png",
     "text": "Обезьяна",
-    "categoryId": 6,
-    "id": 120
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/camel.png",
     "text": "Верблюд",
-    "categoryId": 6,
-    "id": 121
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/mouse.png",
     "text": "Мышь",
-    "categoryId": 6,
-    "id": 122
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/tiger.png",
     "text": "Тигр",
-    "categoryId": 6,
-    "id": 123
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/jellyfish.png",
     "text": "Медуза",
-    "categoryId": 6,
-    "id": 124
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/crocodile.png",
     "text": "Крокодил",
-    "categoryId": 6,
-    "id": 125
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/koala.png",
     "text": "Коала",
-    "categoryId": 6,
-    "id": 126
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/ostrich.png",
     "text": "Страус",
-    "categoryId": 6,
-    "id": 127
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/raccoon.png",
     "text": "Енот",
-    "categoryId": 6,
-    "id": 128
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/bat.png",
     "text": "Летучая мышь",
-    "categoryId": 6,
-    "id": 129
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/eagle.png",
     "text": "Орел",
-    "categoryId": 6,
-    "id": 130
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/behemoth.png",
     "text": "Бегемот",
-    "categoryId": 6,
-    "id": 131
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/seals.png",
     "text": "Тюлень",
-    "categoryId": 6,
-    "id": 132
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/walrus.png",
     "text": "Морж",
-    "categoryId": 6,
-    "id": 133
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/seaHorses.png",
     "text": "Морской конек",
-    "categoryId": 6,
-    "id": 134
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/bull.png",
     "text": "Бык",
-    "categoryId": 6,
-    "id": 135
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/pelican.png",
     "text": "Пеликан",
-    "categoryId": 6,
-    "id": 136
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/beaver.png",
     "text": "Бобер",
-    "categoryId": 6,
-    "id": 137
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/golden-fish.png",
     "text": "Золотая рыбка",
-    "categoryId": 6,
-    "id": 138
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/rhino.png",
     "text": "Носорог",
-    "categoryId": 6,
-    "id": 139
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/snake.png",
     "text": "Змея",
-    "categoryId": 6,
-    "id": 140
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/lion.png",
     "text": "Лев",
-    "categoryId": 6,
-    "id": 141
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/squid.png",
     "text": "Кальмар",
-    "categoryId": 6,
-    "id": 142
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/whale.png",
     "text": "Кит",
-    "categoryId": 6,
-    "id": 143
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/bug.png",
     "text": "Жук",
-    "categoryId": 6,
-    "id": 144
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/dolphin.png",
     "text": "Дельфин",
-    "categoryId": 6,
-    "id": 145
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/Starrfish.png",
     "text": "Морская звезда",
-    "categoryId": 6,
-    "id": 146
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/parrot.png",
     "text": "Попугай",
-    "categoryId": 6,
-    "id": 147
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/owl.png",
     "text": "Сова",
-    "categoryId": 6,
-    "id": 148
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/sheep.png",
     "text": "Овца",
-    "categoryId": 6,
-    "id": 149
+    "categoryId": 6
   },
   {
     "image": "http://localhost:3333/files/images/desktop.png",
     "text": "Рабочий стол",
-    "categoryId": 7,
-    "id": 150
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/chair.png",
     "text": "Стул",
-    "categoryId": 7,
-    "id": 151
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/book.png",
     "text": "Книга",
-    "categoryId": 7,
-    "id": 152
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/notebook.png",
     "text": "Блокнот",
-    "categoryId": 7,
-    "id": 153
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/backpack.png",
     "text": "Рюкзак",
-    "categoryId": 7,
-    "id": 154
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/board.png",
     "text": "Доска",
-    "categoryId": 7,
-    "id": 155
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/teacher.png",
     "text": "Учитель",
-    "categoryId": 7,
-    "id": 156
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/school-bus.png",
     "text": "Школьный автобус",
-    "categoryId": 7,
-    "id": 157
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/pen.png",
     "text": "Карандаш",
-    "categoryId": 7,
-    "id": 158
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/eraser.png",
     "text": "Ластик",
-    "categoryId": 7,
-    "id": 159
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/line.png",
     "text": "Линейка",
-    "categoryId": 7,
-    "id": 160
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/sharpener.png",
     "text": "Точилка",
-    "categoryId": 7,
-    "id": 161
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/math.png",
     "text": "Математика",
-    "categoryId": 7,
-    "id": 162
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/literature.png",
     "text": "Литература",
-    "categoryId": 7,
-    "id": 163
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/science.png",
     "text": "Наука",
-    "categoryId": 7,
-    "id": 164
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/art-class.png",
     "text": "Художественный класс",
-    "categoryId": 7,
-    "id": 165
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/music.png",
     "text": "Музыкальный класс",
-    "categoryId": 7,
-    "id": 166
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/globe.png",
     "text": "География",
-    "categoryId": 7,
-    "id": 167
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/telescope.png",
     "text": "Телескоп",
-    "categoryId": 7,
-    "id": 168
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/glue.png",
     "text": "Клей",
-    "categoryId": 7,
-    "id": 169
+    "categoryId": 7
   },
   {
     "image": "http://localhost:3333/files/images/walk.png",
     "text": "Гулять пешком",
-    "categoryId": 8,
-    "id": 170
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/run.png",
     "text": "Бег",
-    "categoryId": 8,
-    "id": 171
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/chat.png",
     "text": "Разговор",
-    "categoryId": 8,
-    "id": 172
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/reading.png",
     "text": "Чтение",
-    "categoryId": 8,
-    "id": 173
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/football.png",
     "text": "Футбол",
-    "categoryId": 8,
-    "id": 174
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/basketball.png",
     "text": "Баскетбол",
-    "categoryId": 8,
-    "id": 175
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/swimming.png",
     "text": "Плавание",
-    "categoryId": 8,
-    "id": 176
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/art.png",
     "text": "Картина",
-    "categoryId": 8,
-    "id": 177
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/drawing.png",
     "text": "Рисунок",
-    "categoryId": 8,
-    "id": 178
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/bike.png",
     "text": "Кататься на велосипеде",
-    "categoryId": 8,
-    "id": 179
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/hockey-skates.png",
     "text": "Катание на коньках",
-    "categoryId": 8,
-    "id": 180
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/guide.png",
     "text": "Осмотр достопримечательностей",
-    "categoryId": 8,
-    "id": 181
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/game.png",
     "text": "Видеоигры",
-    "categoryId": 8,
-    "id": 182
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/cleaning.png",
     "text": "Уборка",
-    "categoryId": 8,
-    "id": 183
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/toy.png",
     "text": "Игрушки",
-    "categoryId": 8,
-    "id": 184
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/puzzle.png",
     "text": "Головоломка",
-    "categoryId": 8,
-    "id": 185
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/comic.png",
     "text": "Комиксы",
-    "categoryId": 8,
-    "id": 186
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/chess.png",
     "text": "Шахматы",
-    "categoryId": 8,
-    "id": 187
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/messaging.png",
     "text": "Текстовые сообщения",
-    "categoryId": 8,
-    "id": 188
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/knitting.png",
     "text": "Вязание",
-    "categoryId": 8,
-    "id": 189
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/bowling.png",
     "text": "Боулинг",
-    "categoryId": 8,
-    "id": 190
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/tv.png",
     "text": "Телевизор",
-    "categoryId": 8,
-    "id": 191
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/fishing.png",
     "text": "Рыбалка",
-    "categoryId": 8,
-    "id": 192
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/gym.png",
     "text": "Упражнение",
-    "categoryId": 8,
-    "id": 193
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/tennis.png",
     "text": "Большой теннис",
-    "categoryId": 8,
-    "id": 194
+    "categoryId": 8
   },
   {
     "image": "http://localhost:3333/files/images/circle.png",
     "text": "Круг",
-    "categoryId": 9,
-    "id": 195
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/triangle.png",
     "text": "Треугольник",
-    "categoryId": 9,
-    "id": 196
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/square.png",
     "text": "Квадрат",
-    "categoryId": 9,
-    "id": 197
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/rectangle.png",
     "text": "Прямоугольник",
-    "categoryId": 9,
-    "id": 198
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/star.png",
     "text": "Звезда",
-    "categoryId": 9,
-    "id": 199
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/pentagon.png",
     "text": "Пентагон",
-    "categoryId": 9,
-    "id": 200
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/hexagon.png",
     "text": "Шестиугольник",
-    "categoryId": 9,
-    "id": 201
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/cross.png",
     "text": "Крест",
-    "categoryId": 9,
-    "id": 202
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/ellipce.png",
     "text": "Эллипс",
-    "categoryId": 9,
-    "id": 203
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/arrow.png",
     "text": "Стрелка",
-    "categoryId": 9,
-    "id": 204
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/crescent.png",
     "text": "Полумесяц",
-    "categoryId": 9,
-    "id": 205
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/heart.png",
     "text": "Сердце",
-    "categoryId": 9,
-    "id": 206
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/diamond.png",
     "text": "Ромб",
-    "categoryId": 9,
-    "id": 207
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/cylinder.png",
     "text": "Цилиндр",
-    "categoryId": 9,
-    "id": 208
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/ring.png",
     "text": "Кольцо",
-    "categoryId": 9,
-    "id": 209
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/crescent.png",
     "text": "Полукруг",
-    "categoryId": 9,
-    "id": 210
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/cude.png",
     "text": "Трапеция",
-    "categoryId": 9,
-    "id": 211
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/cude.png",
     "text": "Куб",
-    "categoryId": 9,
-    "id": 212
+    "categoryId": 9
   },
   {
     "image": "http://localhost:3333/files/images/crayons.png",
     "text": "Мелки",
-    "categoryId": 10,
-    "id": 213
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/red.png",
     "text": "Красный",
-    "categoryId": 10,
-    "id": 214
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/blue.png",
     "text": "Синий",
-    "categoryId": 10,
-    "id": 215
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/orange.png",
     "text": "Оранжевый",
-    "categoryId": 10,
-    "id": 216
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/green.png",
     "text": "Зеленый",
-    "categoryId": 10,
-    "id": 217
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/yellow.png",
     "text": "Желтый",
-    "categoryId": 10,
-    "id": 218
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/purple.png",
     "text": "Фиолетовый",
-    "categoryId": 10,
-    "id": 219
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/pink.png",
     "text": "Розовый",
-    "categoryId": 10,
-    "id": 220
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/brown.png",
     "text": "Коричневый",
-    "categoryId": 10,
-    "id": 221
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/black.png",
     "text": "Черный",
-    "categoryId": 10,
-    "id": 222
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/white.png",
     "text": "Белый",
-    "categoryId": 10,
-    "id": 223
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/grey.png",
     "text": "Серый",
-    "categoryId": 10,
-    "id": 224
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/transparent.png",
     "text": "Прозрачный",
-    "categoryId": 10,
-    "id": 225
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/blue2.png",
     "text": "Голубой",
-    "categoryId": 10,
-    "id": 226
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/azure.png",
     "text": "Бирюзовый",
-    "categoryId": 10,
-    "id": 227
+    "categoryId": 10
   },
   {
     "image": "http://localhost:3333/files/images/laim.png",
     "text": "Лайм",
-    "categoryId": 10,
-    "id": 228
+    "categoryId": 10
   }
 ]
