@@ -54,7 +54,7 @@ export class CategoryController {
   findOne(@Param('id') id: string) {
     return this.categoryService.findOne(+id);
   }
-
+  @Public()
   @Patch(':id')
   //@Roles('ADMIN')
   @UseInterceptors(FileInterceptor('image', storage))
@@ -66,7 +66,7 @@ export class CategoryController {
     const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
     return this.categoryService.update(+id, updateCategoryDto, imageUrl);
   }
-
+  @Public()
   @Delete(':id')
   //@Roles('ADMIN')
   remove(@Param('id') id: string) {
