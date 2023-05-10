@@ -28,7 +28,6 @@ export const storage = {
 @Controller('phrase-bank')
 export class PhraseBankController {
   constructor(private readonly phraseBankService: PhraseBankService) {}
-  @Public()
   @Post()
   @UseInterceptors(FileInterceptor('image', storage))
   create(
@@ -48,7 +47,6 @@ export class PhraseBankController {
   findOne(@Param('id') id: string) {
     return this.phraseBankService.findOne(+id);
   }
-  @Public()
   @Patch(':id')
   @UseInterceptors(FileInterceptor('image', storage))
   update(
@@ -59,7 +57,6 @@ export class PhraseBankController {
     const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
     return this.phraseBankService.update(+id, updatePhraseBankDto, imageUrl);
   }
-  @Public()
   @Delete(':id')
   remove(@Param('id') id: string) {
     return this.phraseBankService.remove(+id);

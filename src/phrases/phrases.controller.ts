@@ -29,7 +29,6 @@ export const storage = {
 export class PhrasesController {
   constructor(private readonly phrasesService: PhrasesService) {}
 
-  @Public()
   @Post()
   @UseInterceptors(FileInterceptor('sound', storage))
   create(
@@ -53,7 +52,6 @@ export class PhrasesController {
     return this.phrasesService.findOne(+id);
   }
 
-  @Public()
   @Patch(':id')
   @UseInterceptors(FileInterceptor('sound', storage))
   update(
@@ -65,7 +63,6 @@ export class PhrasesController {
     return this.phrasesService.update(+id, updatePhraseDto, soundUrl);
   }
 
-  @Public()
   @Delete(':id')
   remove(@Param('id') id: string) {
     return this.phrasesService.remove(+id);
