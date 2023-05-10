@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Улыбнись, обнажив свои верхние и нижние сомкнутые зубы",
+    "image": "http://localhost:3333/files/images/zaborchik.jpg",
+    "exerciseSubCategoryId": 1
+  },
+  {
+    "text": "Сомкни губы и зубы. Напряженно вытяни губы вперед, образуя трубочку. Удерживай такое положение до пяти.",
+    "image": "http://localhost:3333/files/images/slonik.jpg",
+    "exerciseSubCategoryId": 2
+  },
+  {
+    "text": "Улыбнись и открой рот. Перемещай кончик языка на счет раз-два из одного уголка рта в другой. При этом нижняя челюсть остается неподвижной.",
+    "image": "http://localhost:3333/files/images/chasiki.jpg",
+    "exerciseSubCategoryId": 3
+  },
+  {
+    "text": "Надуй щеки изо всех сил по очереди.",
+    "image": "http://localhost:3333/files/images/homyak.jpg",
+    "exerciseSubCategoryId": 4
+  },
+  {
+    "text": "Улыбнись и открой рот. На счет 1-2 упирай языком то в верхние, то в нижние зубы. При этом нижняя челюсть остается неподвижной.",
+    "image": "http://localhost:3333/files/images/kachely.jpg",
+    "exerciseSubCategoryId": 5
+  },
+  {
+    "text": "Рот открыт. Упри кончик языка в нижние резцы, а спинку языка подними вверх.",
+    "image": "http://localhost:3333/files/images/gorka.jpg",
+    "exerciseSubCategoryId": 6
+  },
+  {
+    "text": "Открой рот и положи широкий язык на нижнюю губу.",
+    "image": "http://localhost:3333/files/images/lopatka.jpg",
+    "exerciseSubCategoryId": 7
+  },
+  {
+    "text": "Широко открой рот, улыбнись, и подними кончик языка, чтобы поставить его на бугорки (альвеолы) за верхними зубами.",
+    "image": "http://localhost:3333/files/images/lodochka.jpg",
+    "exerciseSubCategoryId": 8
+  },
+  {
+    "text": "Улыбка с видимыми зубами. Прикуси язык зубами. Двигай языком вперед-назад, не разжимая зубов.",
+    "image": "http://localhost:3333/files/images/rascheska.jpg",
+    "exerciseSubCategoryId": 9
+  },
+  {
+    "text": "Прилипи язык к нёбу. Не отрывая языка от нёба, оттяни вниз нижнюю челюсть.",
+    "image": "http://localhost:3333/files/images/bayan.jpg",
+    "exerciseSubCategoryId": 10
+  },
+  {
+    "text": "Вытяни сомкнутые губы вперед, образуя трубочку. Удерживай такое положение подсчетом от 5 до 7.",
+    "image": "http://localhost:3333/files/images/dudochka.jpg",
+    "exerciseSubCategoryId": 11
+  },
+  {
+    "text": "Улыбнись, открой рот, и положи широкий язык на нижнюю губу. Загните боковые края языка в форме чашечки. Удерживай такое положение до пяти. Нижняя губа не должна касаться нижних зубов.",
+    "image": "http://localhost:3333/files/images/chashechka.jpg",
+    "exerciseSubCategoryId": 12
+  }
+]
