@@ -190,7 +190,7 @@
     "categoryId": 3
   },
   {
-    "image": "http://localhost:3333/files/images/grandfa.png",
+    "image": "http://localhost:3333/files/images/men.png",
     "text": "Дедушка",
     "categoryId": 3
   },
@@ -225,7 +225,7 @@
     "categoryId": 4
   },
   {
-    "image": "http://localhost:3333/files/images/emotion3.png4",
+    "image": "http://localhost:3333/files/images/emotion3.png",
     "text": "Измученный",
     "categoryId": 4
   },
@@ -310,7 +310,7 @@
     "categoryId": 4
   },
   {
-    "image": "http://localhost:3333/files/images/.png",
+    "image": "http://localhost:3333/files/images/me.png",
     "text": "Голодный",
     "categoryId": 5
   },
@@ -320,12 +320,12 @@
     "categoryId": 5
   },
   {
-    "image": "http://localhost:3333/files/images/.png",
+    "image": "http://localhost:3333/files/images/fish.png",
     "text": "Столовые приборы",
     "categoryId": 5
   },
   {
-    "image": "http://localhost:3333/files/images/.png",
+    "image": "http://localhost:3333/files/images/me.png",
     "text": "Полный",
     "categoryId": 5
   },
@@ -355,7 +355,7 @@
     "categoryId": 5
   },
   {
-    "image": "http://localhost:3333/files/images/milk.png",
+    "image": "http://localhost:3333/files/images/milck.png",
     "text": "Молоко",
     "categoryId": 5
   },
@@ -915,7 +915,7 @@
     "categoryId": 8
   },
   {
-    "image": "http://localhost:3333/files/images/toy.png",
+    "image": "http://localhost:3333/files/images/toys.png",
     "text": "Игрушки",
     "categoryId": 8
   },
@@ -1010,7 +1010,7 @@
     "categoryId": 9
   },
   {
-    "image": "http://localhost:3333/files/images/ellipce.png",
+    "image": "http://localhost:3333/files/images/ellipse.png",
     "text": "Эллипс",
     "categoryId": 9
   },
@@ -1050,12 +1050,12 @@
     "categoryId": 9
   },
   {
-    "image": "http://localhost:3333/files/images/cude.png",
+    "image": "http://localhost:3333/files/images/cube.png",
     "text": "Трапеция",
     "categoryId": 9
   },
   {
-    "image": "http://localhost:3333/files/images/cude.png",
+    "image": "http://localhost:3333/files/images/cube.png",
     "text": "Куб",
     "categoryId": 9
   },

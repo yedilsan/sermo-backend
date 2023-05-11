@@ -37,14 +37,12 @@ export class CategoryController {
     @Body() createCategoryDto: CreateCategoryDto,
     @UploadedFile() file: Express.Multer.File,
   ) {
-    console.log('filefnsdig');
     const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
     return this.categoryService.create(createCategoryDto, imageUrl);
   }
   @Public()
   @Get()
   findAll() {
-    console.log('find all');
     return this.categoryService.findAll();
   }
 
