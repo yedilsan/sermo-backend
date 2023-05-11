@@ -52,6 +52,12 @@ export class PhrasesController {
     return this.phrasesService.findOne(+id);
   }
 
+  @Public()
+  @Get('phraseBank/:phraseBankId')
+  findByPhraseBankId(@Param('phraseBankId') phraseBankId: string) {
+    return this.phrasesService.findByPhraseBankId(+phraseBankId);
+  }
+
   @Patch(':id')
   @UseInterceptors(FileInterceptor('sound', storage))
   update(

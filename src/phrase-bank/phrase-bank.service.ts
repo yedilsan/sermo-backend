@@ -3,6 +3,7 @@ import { PrismaService } from 'src/prisma/prisma.service';
 import { CreatePhraseBankDto } from './dto/create-phrase-bank.dto';
 import { UpdatePhraseBankDto } from './dto/update-phrase-bank.dto';
 import { unlink } from 'fs/promises';
+import { PhraseBank } from '@prisma/client';
 
 @Injectable()
 export class PhraseBankService {
@@ -25,6 +26,13 @@ export class PhraseBankService {
     });
   }
 
+  async findByCategoryId(categoryId: number): Promise<PhraseBank[]> {
+    return this.prisma.phraseBank.findMany({
+      where: {
+        categoryId: categoryId,
+      },
+    });
+  }
   findOne(id: number) {
     return this.prisma.phraseBank.findUnique({
       where: {

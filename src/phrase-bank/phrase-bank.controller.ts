@@ -47,6 +47,11 @@ export class PhraseBankController {
   findOne(@Param('id') id: string) {
     return this.phraseBankService.findOne(+id);
   }
+  @Public()
+  @Get('category/:categoryId')
+  findByCategoryId(@Param('categoryId') categoryId: string) {
+    return this.phraseBankService.findByCategoryId(+categoryId);
+  }
   @Patch(':id')
   @UseInterceptors(FileInterceptor('image', storage))
   update(

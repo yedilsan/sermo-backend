@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 import { CreateExerciseSubCategoryDto } from './dto/create-exercise-sub-category.dto';
 import { UpdateExerciseSubCategoryDto } from './dto/update-exercise-sub-category.dto';
 import { PrismaService } from 'src/prisma/prisma.service';
+import { ExerciseSubCategory } from '@prisma/client';
 
 @Injectable()
 export class ExerciseSubCategoriesService {
@@ -25,6 +26,15 @@ export class ExerciseSubCategoriesService {
     });
   }
 
+  async findByExerciseCategoryId(
+    exerciseCategoryId: number,
+  ): Promise<ExerciseSubCategory[]> {
+    return this.prisma.exerciseSubCategory.findMany({
+      where: {
+        exerciseCategoryId: exerciseCategoryId,
+      },
+    });
+  }
   update(
     id: number,
     updateExerciseSubCategoryDto: UpdateExerciseSubCategoryDto,

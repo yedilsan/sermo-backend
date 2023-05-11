@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 import { CreateExerciseDto } from './dto/create-exercise.dto';
 import { UpdateExerciseDto } from './dto/update-exercise.dto';
 import { PrismaService } from '../prisma/prisma.service';
+import { Exercise } from '@prisma/client';
 
 @Injectable()
 export class ExercisesService {
@@ -18,6 +19,16 @@ export class ExercisesService {
 
   findOne(id: number) {
     return this.prisma.exercise.findUnique({ where: { id } });
+  }
+
+  async findByExerciseSubCategoryId(
+    exerciseSubCategoryId: number,
+  ): Promise<Exercise[]> {
+    return this.prisma.exercise.findMany({
+      where: {
+        exerciseSubCategoryId: exerciseSubCategoryId,
+      },
+    });
   }
 
   update(id: number, updateExerciseDto: UpdateExerciseDto) {

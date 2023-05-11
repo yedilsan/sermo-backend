@@ -35,6 +35,16 @@ export class ExerciseSubCategoriesController {
     return this.exerciseSubCategoriesService.findOne(+id);
   }
   @Public()
+  @Get('exerciseCategory/:exerciseCategoryId')
+  findByExerciseCategoryId(
+    @Param('exerciseCategoryId') exerciseCategoryId: string,
+  ) {
+    return this.exerciseSubCategoriesService.findByExerciseCategoryId(
+      +exerciseCategoryId,
+    );
+  }
+
+  @Public()
   @Patch(':id')
   update(
     @Param('id') id: string,

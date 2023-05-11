@@ -3,7 +3,7 @@ import { PrismaService } from 'src/prisma/prisma.service';
 import { CreatePhraseDto } from './dto/create-phrase.dto';
 import { UpdatePhraseDto } from './dto/update-phrase.dto';
 import { unlink } from 'fs/promises';
-
+import { Phrase } from '@prisma/client';
 @Injectable()
 export class PhrasesService {
   constructor(private readonly prisma: PrismaService) {}
@@ -30,6 +30,13 @@ export class PhrasesService {
     return this.prisma.phrase.findUnique({
       where: {
         id,
+      },
+    });
+  }
+  async findByPhraseBankId(phraseBankId: number): Promise<Phrase[]> {
+    return this.prisma.phrase.findMany({
+      where: {
+        phraseBankId: phraseBankId,
       },
     });
   }
