@@ -12,25 +12,24 @@ async function main() {
   console.log(exists);
 
   if (!exists) {
-    categorys.forEach(
-      async (category) => await prisma.category.create({ data: category }),
-    );
+    for (const category of categorys) {
+      await prisma.category.create({ data: category });
+    }
   }
   const exists2 = await prisma.phraseBank.findUnique({ where: { id: 1 } });
   console.log(exists2);
 
   if (!exists2) {
-    phrasebank.forEach(
-      async (phraseBank) =>
-        await prisma.phraseBank.create({ data: phraseBank }),
-    );
+    for (const phraseBank of phrasebank) {
+      await prisma.phraseBank.create({ data: phraseBank });
+    }
   }
   const exists3 = await prisma.phrase.findUnique({ where: { id: 1 } });
   console.log(exists3);
   if (!exists3) {
-    phrases.forEach(
-      async (phrase) => await prisma.phrase.create({ data: phrase }),
-    );
+    for (const phrase of phrases) {
+      await prisma.phrase.create({ data: phrase });
+    }
   }
   // exercise category
   const existsExerciseCategory = await prisma.exerciseCategory.findUnique({
@@ -39,10 +38,9 @@ async function main() {
   console.log(exists);
 
   if (!existsExerciseCategory) {
-    exerciseCategorys.forEach(
-      async (exerciseCategory) =>
-        await prisma.exerciseCategory.create({ data: exerciseCategory }),
-    );
+    for (const exerciseCategory of exerciseCategorys) {
+      await prisma.exerciseCategory.create({ data: exerciseCategory });
+    }
   }
   // exercise sub category
   const existsSubExerciseCategory = await prisma.exerciseSubCategory.findUnique(
@@ -53,10 +51,9 @@ async function main() {
   console.log(exists);
 
   if (!existsSubExerciseCategory) {
-    exerciseSubCategorys.forEach(
-      async (exerciseSubCategory) =>
-        await prisma.exerciseSubCategory.create({ data: exerciseSubCategory }),
-    );
+    for (const exerciseSubCategory of exerciseSubCategorys) {
+      await prisma.exerciseSubCategory.create({ data: exerciseSubCategory });
+    }
   }
   // exercise
   const existsExercise = await prisma.exercise.findUnique({
@@ -65,9 +62,9 @@ async function main() {
   console.log(exists);
 
   if (!existsExercise) {
-    exercises.forEach(
-      async (exercise) => await prisma.exercise.create({ data: exercise }),
-    );
+    for (const exercise of exercises) {
+      await prisma.exercise.create({ data: exercise });
+    }
   }
 }
 main()
