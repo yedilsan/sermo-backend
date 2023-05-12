@@ -11,6 +11,7 @@ import { ExercisesModule } from './exercises/exercises.module';
 import { ExerciseCategoryModule } from './exercise-category/exercise-category.module';
 import { SpeechTherapistModule } from './speech-therapist/speech-therapist.module';
 import { ExerciseSubCategoriesModule } from './exercise-sub-categories/exercise-sub-categories.module';
+import { FavoriteModule } from './favorite/favorite.module';
 
 @Module({
   imports: [
@@ -28,6 +29,7 @@ import { ExerciseSubCategoriesModule } from './exercise-sub-categories/exercise-
     ExerciseCategoryModule,
     SpeechTherapistModule,
     ExerciseSubCategoriesModule,
+    FavoriteModule,
   ],
 })
 export class AppModule {}
