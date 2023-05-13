@@ -6,6 +6,7 @@ import * as phrases from './phrases/phrases.json';
 import * as exerciseCategorys from './phrases/exerciseCategory.json';
 import * as exerciseSubCategorys from './phrases/exerciseSubCategory.json';
 import * as exercises from './phrases/exercise.json';
+import * as speechTherapists from './phrases/speechTherapist.json';
 
 async function main() {
   const exists = await prisma.category.findUnique({ where: { id: 1 } });
@@ -64,6 +65,17 @@ async function main() {
   if (!existsExercise) {
     for (const exercise of exercises) {
       await prisma.exercise.create({ data: exercise });
+    }
+  }
+  //speechTherapist
+  const existsTherapist = await prisma.speechTherapist.findUnique({
+    where: { id: 1 },
+  });
+  console.log(exists);
+
+  if (!existsTherapist) {
+    for (const speechTherapist of speechTherapists) {
+      await prisma.speechTherapist.create({ data: speechTherapist });
     }
   }
 }
