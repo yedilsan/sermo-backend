@@ -6,11 +6,15 @@ import {
   Patch,
   Param,
   Delete,
+  UseInterceptors,
+  UploadedFile,
 } from '@nestjs/common';
 import { ExerciseCategoryService } from './exercise-category.service';
 import { CreateExerciseCategoryDto } from './dto/create-exercise-category.dto';
 import { UpdateExerciseCategoryDto } from './dto/update-exercise-category.dto';
 import { Public } from 'decorators/public.decorator';
+import { FileInterceptor } from '@nestjs/platform-express';
+import { storage } from 'src/category/category.controller';
 
 @Controller('exercise-category')
 export class ExerciseCategoryController {
@@ -19,8 +23,16 @@ export class ExerciseCategoryController {
   ) {}
   @Public()
   @Post()
-  create(@Body() createExerciseCategoryDto: CreateExerciseCategoryDto) {
-    return this.exerciseCategoryService.create(createExerciseCategoryDto);
+  @UseInterceptors(FileInterceptor('image', storage))
+  create(
+    @Body() createExerciseCategoryDto: CreateExerciseCategoryDto,
+    @UploadedFile() file: Express.Multer.File,
+  ) {
+    const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
+    return this.exerciseCategoryService.create(
+      createExerciseCategoryDto,
+      imageUrl,
+    );
   }
   @Public()
   @Get()
@@ -34,11 +46,18 @@ export class ExerciseCategoryController {
   }
   @Public()
   @Patch(':id')
+  @UseInterceptors(FileInterceptor('image', storage))
   update(
     @Param('id') id: string,
     @Body() updateExerciseCategoryDto: UpdateExerciseCategoryDto,
+    @UploadedFile() file: Express.Multer.File,
   ) {
-    return this.exerciseCategoryService.update(+id, updateExerciseCategoryDto);
+    const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
+    return this.exerciseCategoryService.update(
+      +id,
+      updateExerciseCategoryDto,
+      imageUrl,
+    );
   }
   @Public()
   @Delete(':id')

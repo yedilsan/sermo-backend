@@ -8,4 +8,8 @@ export class UpdateExerciseSubCategoryDto extends PartialType(
   @IsString()
   @IsNotEmpty()
   text: string;
+
+  @IsNotEmpty()
+  @IsString()
+  exerciseCategoryId: string;
 }

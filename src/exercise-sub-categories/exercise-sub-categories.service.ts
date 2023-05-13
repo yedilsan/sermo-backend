@@ -9,8 +9,15 @@ export class ExerciseSubCategoriesService {
   constructor(private readonly prisma: PrismaService) {}
 
   create(createExerciseSubCategoryDto: CreateExerciseSubCategoryDto) {
+    const exerciseCategoryId = parseInt(
+      createExerciseSubCategoryDto.exerciseCategoryId,
+      10,
+    );
     return this.prisma.exerciseSubCategory.create({
-      data: createExerciseSubCategoryDto,
+      data: {
+        text: createExerciseSubCategoryDto.text,
+        exerciseCategoryId: exerciseCategoryId,
+      },
     });
   }
 
@@ -39,11 +46,18 @@ export class ExerciseSubCategoriesService {
     id: number,
     updateExerciseSubCategoryDto: UpdateExerciseSubCategoryDto,
   ) {
+    const exerciseCategoryId = parseInt(
+      updateExerciseSubCategoryDto.exerciseCategoryId,
+      10,
+    );
     return this.prisma.exerciseSubCategory.update({
       where: {
         id,
       },
-      data: updateExerciseSubCategoryDto,
+      data: {
+        text: updateExerciseSubCategoryDto.text,
+        exerciseCategoryId: exerciseCategoryId,
+      },
     });
   }
 

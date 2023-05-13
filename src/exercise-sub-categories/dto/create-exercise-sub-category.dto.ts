@@ -6,6 +6,6 @@ export class CreateExerciseSubCategoryDto {
   text: string;
 
   @IsNotEmpty()
-  @IsNumber()
-  exerciseCategoryId: number;
+  @IsString()
+  exerciseCategoryId: string;
 }
