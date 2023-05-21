@@ -10,7 +10,7 @@ import {
   UseInterceptors,
 } from '@nestjs/common';
 import { User } from '@prisma/client';
-import { GetUser } from 'src/auth/decorator';
+import { GetUser, Roles } from 'src/auth/decorator';
 import { EditUserDto } from './dto';
 import { UserService } from './user.service';
 import { FileInterceptor } from '@nestjs/platform-express';
@@ -35,7 +35,7 @@ export class UserController {
   getMe(@GetUser() user: User) {
     return user;
   }
-  @Public()
+  @Roles('ADMIN')
   @Get()
   async getAllUsers() {
     const users = await this.userService.getAllUsers();

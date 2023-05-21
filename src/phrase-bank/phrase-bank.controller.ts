@@ -16,6 +16,7 @@ import { Public } from 'decorators/public.decorator';
 import { FileInterceptor } from '@nestjs/platform-express';
 import { diskStorage } from 'multer';
 import { editFileName, imageFilter } from 'src/files/options/image.option';
+import { Roles } from 'src/auth/decorator';
 
 export const storage = {
   storage: diskStorage({
@@ -29,6 +30,7 @@ export const storage = {
 export class PhraseBankController {
   constructor(private readonly phraseBankService: PhraseBankService) {}
   @Post()
+  @Roles('ADMIN')
   @UseInterceptors(FileInterceptor('image', storage))
   create(
     @Body() createPhraseBankDto: CreatePhraseBankDto,
@@ -53,6 +55,7 @@ export class PhraseBankController {
     return this.phraseBankService.findByCategoryId(+categoryId);
   }
   @Patch(':id')
+  @Roles('ADMIN')
   @UseInterceptors(FileInterceptor('image', storage))
   update(
     @Param('id') id: string,
@@ -63,6 +66,7 @@ export class PhraseBankController {
     return this.phraseBankService.update(+id, updatePhraseBankDto, imageUrl);
   }
   @Delete(':id')
+  @Roles('ADMIN')
   remove(@Param('id') id: string) {
     return this.phraseBankService.remove(+id);
   }

@@ -17,9 +17,10 @@ export class UserService {
         createdAt: true,
         updatedAt: true,
         avatar: true,
+        role: true,
       },
       orderBy: {
-        createdAt: 'desc',
+        createdAt: 'asc',
       },
     });
     return users;

@@ -30,7 +30,7 @@ export const storage = {
 export class CategoryController {
   constructor(private readonly categoryService: CategoryService) {}
 
-  //@Roles('ADMIN')
+  @Roles('ADMIN')
   @Post()
   @UseInterceptors(FileInterceptor('image', storage))
   create(
@@ -52,7 +52,7 @@ export class CategoryController {
     return this.categoryService.findOne(+id);
   }
   @Patch(':id')
-  //@Roles('ADMIN')
+  @Roles('ADMIN')
   @UseInterceptors(FileInterceptor('image', storage))
   update(
     @Param('id') id: string,
@@ -63,7 +63,7 @@ export class CategoryController {
     return this.categoryService.update(+id, updateCategoryDto, imageUrl);
   }
   @Delete(':id')
-  //@Roles('ADMIN')
+  @Roles('ADMIN')
   remove(@Param('id') id: string) {
     return this.categoryService.remove(+id);
   }

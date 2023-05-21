@@ -16,6 +16,7 @@ import { Public } from 'decorators/public.decorator';
 import { FileInterceptor } from '@nestjs/platform-express';
 import { diskStorage } from 'multer';
 import { audioFilter, editFileName } from 'src/files/options/image.option';
+import { Roles } from 'src/auth/decorator';
 
 export const storage = {
   storage: diskStorage({
@@ -30,6 +31,7 @@ export class PhrasesController {
   constructor(private readonly phrasesService: PhrasesService) {}
 
   @Post()
+  @Roles('ADMIN')
   @UseInterceptors(FileInterceptor('sound', storage))
   create(
     @Body() createPhraseDto: CreatePhraseDto,
@@ -59,6 +61,7 @@ export class PhrasesController {
   }
 
   @Patch(':id')
+  @Roles('ADMIN')
   @UseInterceptors(FileInterceptor('sound', storage))
   update(
     @Param('id') id: string,
@@ -70,6 +73,7 @@ export class PhrasesController {
   }
 
   @Delete(':id')
+  @Roles('ADMIN')
   remove(@Param('id') id: string) {
     return this.phrasesService.remove(+id);
   }
