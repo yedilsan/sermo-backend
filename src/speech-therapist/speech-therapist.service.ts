@@ -8,8 +8,15 @@ export class SpeechTherapistService {
   constructor(private readonly prisma: PrismaService) {}
 
   create(createSpeechTherapistDto: CreateSpeechTherapistDto) {
+    const rating = parseInt(createSpeechTherapistDto.rating, 10);
     return this.prisma.speechTherapist.create({
-      data: createSpeechTherapistDto,
+      data: {
+        name: createSpeechTherapistDto.name,
+        phone: createSpeechTherapistDto.phone,
+        email: createSpeechTherapistDto.email,
+        address: createSpeechTherapistDto.address,
+        rating: rating,
+      },
     });
   }
 
@@ -26,11 +33,18 @@ export class SpeechTherapistService {
   }
 
   update(id: number, updateSpeechTherapistDto: UpdateSpeechTherapistDto) {
+    const rating = parseInt(updateSpeechTherapistDto.rating, 10);
     return this.prisma.speechTherapist.update({
       where: {
         id,
       },
-      data: updateSpeechTherapistDto,
+      data: {
+        name: updateSpeechTherapistDto.name,
+        phone: updateSpeechTherapistDto.phone,
+        email: updateSpeechTherapistDto.email,
+        address: updateSpeechTherapistDto.address,
+        rating: rating,
+      },
     });
   }
 

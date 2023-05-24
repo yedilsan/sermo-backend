@@ -1,4 +1,4 @@
-import { IsNotEmpty, IsNumber, IsOptional, IsString } from 'class-validator';
+import { IsNotEmpty, IsOptional, IsString } from 'class-validator';
 
 export class CreateSpeechTherapistDto {
   @IsString()
@@ -18,6 +18,6 @@ export class CreateSpeechTherapistDto {
   address: string;
 
   @IsNotEmpty()
-  @IsNumber()
-  rating: number;
+  @IsString()
+  rating: string;
 }

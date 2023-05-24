@@ -1,6 +1,6 @@
 import { PartialType } from '@nestjs/mapped-types';
 import { CreateSpeechTherapistDto } from './create-speech-therapist.dto';
-import { IsNotEmpty, IsNumber, IsOptional, IsString } from 'class-validator';
+import { IsNotEmpty, IsOptional, IsString } from 'class-validator';
 
 export class UpdateSpeechTherapistDto extends PartialType(
   CreateSpeechTherapistDto,
@@ -22,6 +22,6 @@ export class UpdateSpeechTherapistDto extends PartialType(
   address: string;
 
   @IsNotEmpty()
-  @IsNumber()
-  rating: number;
+  @IsString()
+  rating: string;
 }
