@@ -28,7 +28,7 @@ export class ExerciseCategoryController {
     @Body() createExerciseCategoryDto: CreateExerciseCategoryDto,
     @UploadedFile() file: Express.Multer.File,
   ) {
-    const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
+    const imageUrl = `https://sermo-backend.onrender.com/files/images/${file.filename}`;
     return this.exerciseCategoryService.create(
       createExerciseCategoryDto,
       imageUrl,
@@ -52,7 +52,7 @@ export class ExerciseCategoryController {
     @Body() updateExerciseCategoryDto: UpdateExerciseCategoryDto,
     @UploadedFile() file: Express.Multer.File,
   ) {
-    const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
+    const imageUrl = `https://sermo-backend.onrender.com/files/images/${file.filename}`;
     return this.exerciseCategoryService.update(
       +id,
       updateExerciseCategoryDto,

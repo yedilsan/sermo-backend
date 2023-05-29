@@ -37,7 +37,7 @@ export class CategoryController {
     @Body() createCategoryDto: CreateCategoryDto,
     @UploadedFile() file: Express.Multer.File,
   ) {
-    const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
+    const imageUrl = `https://sermo-backend.onrender.com/files/images/${file.filename}`;
     return this.categoryService.create(createCategoryDto, imageUrl);
   }
   @Public()
@@ -59,7 +59,7 @@ export class CategoryController {
     @Body() updateCategoryDto: UpdateCategoryDto,
     @UploadedFile() file: Express.Multer.File,
   ) {
-    const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
+    const imageUrl = `https://sermo-backend.onrender.com/files/images/${file.filename}`;
     return this.categoryService.update(+id, updateCategoryDto, imageUrl);
   }
   @Delete(':id')

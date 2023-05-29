@@ -58,7 +58,7 @@ export class ExercisesService {
     if (exercise.image) {
       try {
         const imagePath = exercise.image.split(
-          'http://localhost:3333/files/images/',
+          'https://sermo-backend.onrender.com/files/images/',
         )[1];
         await unlink(`./uploads/${imagePath}`);
       } catch (error) {

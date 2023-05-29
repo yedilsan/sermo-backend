@@ -26,7 +26,7 @@ export class ExercisesController {
     @Body() createExerciseDto: CreateExerciseDto,
     @UploadedFile() file: Express.Multer.File,
   ) {
-    const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
+    const imageUrl = `https://sermo-backend.onrender.com/files/images/${file.filename}`;
     return this.exercisesService.create(createExerciseDto, imageUrl);
   }
   @Public()
@@ -57,7 +57,7 @@ export class ExercisesController {
     @Body() updateExerciseDto: UpdateExerciseDto,
     @UploadedFile() file: Express.Multer.File,
   ) {
-    const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
+    const imageUrl = `https://sermo-backend.onrender.com/files/images/${file.filename}`;
     return this.exercisesService.update(+id, updateExerciseDto, imageUrl);
   }
   @Public()

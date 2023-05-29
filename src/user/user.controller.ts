@@ -59,7 +59,7 @@ export class UserController {
     } else {
       return this.userService.editImage(
         userId,
-        `http://localhost:3333/users/image/${file.filename}`,
+        `https://sermo-backend.onrender.com/users/image/${file.filename}`,
       );
     }
   }

@@ -47,7 +47,7 @@ export class CategoryService {
     if (category.image) {
       try {
         const imagePath = category.image.split(
-          'http://localhost:3333/files/images/',
+          'https://sermo-backend.onrender.com/files/images/',
         )[1];
         await unlink(`./uploads/${imagePath}`);
       } catch (error) {

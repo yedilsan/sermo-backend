@@ -55,7 +55,7 @@ export class PhrasesService {
     if (phrase.sound) {
       try {
         const soundPath = phrase.sound.split(
-          'http://localhost:3333/files/audio/',
+          'https://sermo-backend.onrender.com/files/audio/',
         )[1];
         await unlink(`./audios/${soundPath}`);
       } catch (error) {

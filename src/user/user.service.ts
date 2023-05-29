@@ -55,7 +55,7 @@ export class UserService {
     if (previousAvatar) {
       try {
         const avatarPath = previousAvatar.split(
-          'http://localhost:3333/users/image/',
+          'https://sermo-backend.onrender.com/users/image/',
         )[1];
         await unlink(`./uploads/profileimages/${avatarPath}`);
       } catch (error) {

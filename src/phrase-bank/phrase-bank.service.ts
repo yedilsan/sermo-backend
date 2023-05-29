@@ -58,7 +58,7 @@ export class PhraseBankService {
     if (phraseBank.image) {
       try {
         const imagePath = phraseBank.image.split(
-          'http://localhost:3333/files/images/',
+          'https://sermo-backend.onrender.com/files/images/',
         )[1];
         await unlink(`./uploads/${imagePath}`);
       } catch (error) {

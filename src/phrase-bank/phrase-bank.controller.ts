@@ -36,7 +36,7 @@ export class PhraseBankController {
     @Body() createPhraseBankDto: CreatePhraseBankDto,
     @UploadedFile() file: Express.Multer.File,
   ) {
-    const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
+    const imageUrl = `https://sermo-backend.onrender.com/files/images/${file.filename}`;
     return this.phraseBankService.create(createPhraseBankDto, imageUrl);
   }
   @Public()
@@ -62,7 +62,7 @@ export class PhraseBankController {
     @Body() updatePhraseBankDto: UpdatePhraseBankDto,
     @UploadedFile() file: Express.Multer.File,
   ) {
-    const imageUrl = `http://localhost:3333/files/images/${file.filename}`;
+    const imageUrl = `https://sermo-backend.onrender.com/files/images/${file.filename}`;
     return this.phraseBankService.update(+id, updatePhraseBankDto, imageUrl);
   }
   @Delete(':id')

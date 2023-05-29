@@ -38,7 +38,7 @@ export class PhrasesController {
     @UploadedFile() file: Express.Multer.File,
   ) {
     console.log('filefnsdig');
-    const soundUrl = `http://localhost:3333/files/audio/${file.filename}`;
+    const soundUrl = `https://sermo-backend.onrender.com/files/audio/${file.filename}`;
     return this.phrasesService.create(createPhraseDto, soundUrl);
   }
 
@@ -68,7 +68,7 @@ export class PhrasesController {
     @Body() updatePhraseDto: UpdatePhraseDto,
     @UploadedFile() file: Express.Multer.File,
   ) {
-    const soundUrl = `http://localhost:3333/files/audio/${file.filename}`;
+    const soundUrl = `https://sermo-backend.onrender.com/files/audio/${file.filename}`;
     return this.phrasesService.update(+id, updatePhraseDto, soundUrl);
   }
 

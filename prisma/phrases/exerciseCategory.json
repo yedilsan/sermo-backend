@@ -1,18 +1,18 @@
 [
   {
-    "image": "http://localhost:3333/files/images/articulation.png",
+    "image": "https://sermo-backend.onrender.com/files/images/articulation.png",
     "text": "Артикуляционные упражнения"
   },
   {
-    "image": "http://localhost:3333/files/images/voice.png",
+    "image": "https://sermo-backend.onrender.com/files/images/voice.png",
     "text": "Дыхательные упражнения"
   },
   {
-    "image": "http://localhost:3333/files/images/voice.png",
+    "image": "https://sermo-backend.onrender.com/files/images/voice.png",
     "text": "Ритмические упражнения"
   },
   {
-    "image": "http://localhost:3333/files/images/fluency.png",
+    "image": "https://sermo-backend.onrender.com/files/images/fluency.png",
     "text": "Аудирование и повторение"
   }
 ]
